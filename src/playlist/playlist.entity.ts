@@ -1,4 +1,4 @@
-// import { Artist } from 'src/artist/artist.entity';
+import { Artist } from 'src/artist/artist.entity';
 import {
     Entity,
     Column,
@@ -32,9 +32,9 @@ export class Playlist {
     @Column({ type: 'varchar', length: 200, nullable: false, default: 'playlist', name: 'type' })
     type: string;
 
-    // @ManyToMany(() => Artist)
-    // @JoinTable({ name: 'artist_of_playlist' })
-    // artist: Artist[];
+    @ManyToMany(() => Artist)
+    @JoinTable({ name: 'artist_of_playlist' })
+    artist: Artist[];
 
     @CreateDateColumn({ name: 'created_at' })
     createdAt: Date;

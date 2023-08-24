@@ -1,4 +1,4 @@
-// import { Playlist } from 'src/playlist/playlist.entity';
+import { Playlist } from 'src/playlist/playlist.entity';
 import {
     Column,
     CreateDateColumn,
@@ -17,9 +17,9 @@ export class TopicPlaylist {
     @Column({ name: 'title', type: 'varchar', length: 128, nullable: false })
     title: string;
 
-    // @ManyToMany(() => Playlist)
-    // @JoinTable({ name: 'playlist_of_topic' })
-    // playlist: Playlist[];
+    @ManyToMany(() => Playlist)
+    @JoinTable({ name: 'playlist_of_topic' })
+    playlist: Playlist[];
 
     @CreateDateColumn({ name: 'created_at' })
     createdAt: Date;
