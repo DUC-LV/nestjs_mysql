@@ -3,6 +3,7 @@ import { InjectRepository } from '@nestjs/typeorm';
 import { User } from './user.entity';
 import { Repository } from 'typeorm';
 import { JwtService } from '@nestjs/jwt';
+// import * as bcrypt from 'bcrypt';
 
 // type RegisterType = {
 //     email: string;
@@ -61,10 +62,6 @@ export class UserService {
                 };
             }
 
-            // const accessToken = await this.jwtService.signAsync(
-            //     { email: (await userWithEmail).email },
-            //     { secret: process.env.SECRET_KEY }
-            // );
             const accessToken = await Promise.all([
                 this.jwtService.signAsync(
                     { email: (await userWithEmail).email, id: (await userWithEmail).id },
@@ -94,4 +91,45 @@ export class UserService {
             console.log(error);
         }
     }
+
+    async getToken(id: number, email: string) {
+        try {
+            const accessToken = await Promise.all([
+                this.jwtService.signAsync(
+                    { email: email, id: id },
+                    { secret: process.env.SECRET_KEY, expiresIn: '24h' }
+                ),
+            ]);
+
+            const refreshToken = await Promise.all([
+                this.jwtService.signAsync(
+                    { email: email, id: id },
+                    { secret: process.env.JWT_REFRESH_SECRET, expiresIn: '30d' }
+                ),
+            ]);
+
+            return {
+                accessToken: accessToken[0],
+                refreshToken: refreshToken[0],
+            };
+        } catch (error) {
+            console.log(error);
+        }
+    }
+
+    // async refreshToken(id: number, refreshToken: string) {
+    //     try {
+    //         const user = await this.userService.findOne({ where: { id } });
+    //         if (!user) throw new ForbiddenException('Access Denied.');
+
+    //         const rtMatches = await bcrypt.compare(refreshToken);
+    //         if (!rtMatches) throw new ForbiddenException('Access Denied.');
+
+    //         const token = await this.getToken(user.id, user.email);
+
+    //         return token;
+    //     } catch (error) {
+    //         console.log(error);
+    //     }
+    // }
 }

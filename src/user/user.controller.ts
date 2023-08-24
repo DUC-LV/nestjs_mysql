@@ -9,12 +9,17 @@ export class UserController {
     @Post('register')
     async register(@Req() request: Request) {
         const req = request.body;
-        return this.userService.register(req.email, req.password, req.username);
+        return await this.userService.register(req.email, req.password, req.username);
     }
 
     @Post('login')
     async login(@Req() request: Request) {
         const req = request.body;
-        return this.userService.login(req.email, req.password);
+        return await this.userService.login(req.email, req.password);
     }
+
+    // @Post('refreshToken')
+    // async refreshToken(id: number, refreshToken: string) {
+    //     return await this.userService.refreshToken(id, refreshToken);
+    // }
 }
