@@ -1,0 +1,2474 @@
+{
+    "err": 0,
+    "msg": "Success",
+    "data": {
+        "encodeId": "ZOBIW6UZ",
+        "title": "tình đầu có phải tình đau?",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/5/7/1/c/571cf0458e4348ad0d52c09fd6420d01.jpg",
+        "isoffical": true,
+        "link": "/album/tinh-dau-co-phai-tinh-dau-Andiez-T-R-I-Kai-Dinh-SOOBIN/ZOBIW6UZ.html",
+        "isIndie": false,
+        "releaseDate": "",
+        "sortDescription": "Dành cả thanh xuân bên nhau, vậy mà chẳng thể cùng nhau đi đến cuối con đường",
+        "releasedAt": 0,
+        "genreIds": [
+            "IWZ9Z08I"
+        ],
+        "PR": false,
+        "artists": [
+            {
+                "id": "IWZ98O8W",
+                "name": "Andiez",
+                "link": "/Andiez",
+                "spotlight": false,
+                "alias": "Andiez",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/b/a/7/dba71d2381abcab4b5988f6fea4f9e11.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/d/b/a/7/dba71d2381abcab4b5988f6fea4f9e11.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZO698C98",
+                "totalFollow": 53300
+            },
+            {
+                "id": "IW6W88E8",
+                "name": "T.R.I",
+                "link": "/T-R-I",
+                "spotlight": false,
+                "alias": "T-R-I",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/4/5/f/c45f36d03019798fc05bad4eb412a5ff.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/4/5/f/c45f36d03019798fc05bad4eb412a5ff.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "6UW9B8BB",
+                "totalFollow": 31371
+            },
+            {
+                "id": "IWZ9FFE0",
+                "name": "Kai Đinh",
+                "link": "/Kai-Dinh",
+                "spotlight": false,
+                "alias": "Kai-Dinh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/a/d/f/0adf3c50531b65edcfe1cdd29dc5ae78.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/a/d/f/0adf3c50531b65edcfe1cdd29dc5ae78.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZAOIEU",
+                "totalFollow": 11943
+            },
+            {
+                "id": "IWZ997CU",
+                "name": "SOOBIN",
+                "link": "/nghe-si/SOOBIN",
+                "spotlight": true,
+                "alias": "SOOBIN",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/5/b/d/25bd8e70180cbf5714c3c8b0a3b57834.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/5/b/d/25bd8e70180cbf5714c3c8b0a3b57834.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "ZWZAEAD9",
+                "totalFollow": 507379
+            }
+        ],
+        "artistsNames": "Andiez, T.R.I, Kai Đinh, SOOBIN",
+        "playItemMode": 0,
+        "subType": 1,
+        "uid": 283,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/5/7/1/c/571cf0458e4348ad0d52c09fd6420d01.jpg",
+        "isShuffle": true,
+        "isPrivate": false,
+        "userName": "Zing MP3",
+        "isAlbum": false,
+        "textType": "Playlist",
+        "isSingle": false,
+        "distributor": "Andiez",
+        "description": "Dành cả thanh xuân bên nhau, vậy mà chẳng thể cùng nhau đi đến cuối con đường",
+        "aliasTitle": "tinh-dau-co-phai-tinh-dau-Andiez-T-R-I-Kai-Dinh-SOOBIN",
+        "sectionId": "album",
+        "contentLastUpdate": 1687927037,
+        "artist": {
+            "id": "IWZ98O8W",
+            "name": "Andiez",
+            "link": "/nghe-si/Andiez",
+            "spotlight": false,
+            "alias": "Andiez",
+            "playlistId": "ZO698C98",
+            "cover": "https://zmp3-static.zmdcdn.me/skins/zmp3-v5.2/images/default_cover.png",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/b/a/7/dba71d2381abcab4b5988f6fea4f9e11.jpg"
+        },
+        "genres": [
+            {
+                "id": "IWZ9Z08I",
+                "name": "Việt Nam",
+                "title": "Việt Nam",
+                "alias": "viet-nam",
+                "link": "/the-loai-album/Viet-Nam/IWZ9Z08I.html"
+            }
+        ],
+        "song": {
+            "items": [
+                {
+                    "encodeId": "ZW9CFDU9",
+                    "title": "Suýt Nữa Thì (Chuyến Đi Của Thanh Xuân OST)",
+                    "alias": "Suyt-Nua-Thi-Chuyen-Di-Cua-Thanh-Xuan-OST-Andiez",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "Andiez",
+                    "artists": [
+                        {
+                            "id": "IWZ98O8W",
+                            "name": "Andiez",
+                            "link": "/Andiez",
+                            "spotlight": false,
+                            "alias": "Andiez",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/b/a/7/dba71d2381abcab4b5988f6fea4f9e11.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/d/b/a/7/dba71d2381abcab4b5988f6fea4f9e11.jpg",
+                            "isOA": true,
+                            "isOABrand": false,
+                            "playlistId": "ZO698C98"
+                        }
+                    ],
+                    "isWorldWide": true,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/c/2/4/7/c2475264a30999a45a3c8bcf0e5f090d.jpg",
+                    "link": "/bai-hat/Suyt-Nua-Thi-Chuyen-Di-Cua-Thanh-Xuan-OST-Andiez/ZW9CFDU9.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/c/2/4/7/c2475264a30999a45a3c8bcf0e5f090d.jpg",
+                    "duration": 283,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 0,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ9Z088",
+                        "IWZ9Z0BA",
+                        "IWZ97FCD"
+                    ],
+                    "album": {
+                        "encodeId": "ZODZZ78Z",
+                        "title": "Suýt Nữa Thì (Chuyến Đi Của Thanh Xuân OST) (Single)",
+                        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/c/2/4/7/c2475264a30999a45a3c8bcf0e5f090d.jpg",
+                        "isoffical": true,
+                        "link": "/album/Suyt-Nua-Thi-Chuyen-Di-Cua-Thanh-Xuan-OST-Single-Andiez/ZODZZ78Z.html",
+                        "isIndie": false,
+                        "releaseDate": "2018",
+                        "sortDescription": "",
+                        "releasedAt": 1546189200000,
+                        "genreIds": [
+                            "IWZ9Z08I",
+                            "IWZ9Z088",
+                            "IWZ9Z0BA"
+                        ],
+                        "PR": false,
+                        "artists": [
+                            {
+                                "id": "IWZ98O8W",
+                                "name": "Andiez",
+                                "link": "/Andiez",
+                                "spotlight": false,
+                                "alias": "Andiez",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/b/a/7/dba71d2381abcab4b5988f6fea4f9e11.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/d/b/a/7/dba71d2381abcab4b5988f6fea4f9e11.jpg",
+                                "isOA": true,
+                                "isOABrand": false,
+                                "playlistId": "ZO698C98",
+                                "totalFollow": 53300
+                            }
+                        ],
+                        "artistsNames": "Andiez"
+                    },
+                    "distributor": "MIXUS",
+                    "indicators": [],
+                    "radioId": 1285923418,
+                    "isIndie": false,
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "ZZ9O0AEF",
+                    "title": "Chúng Ta Sau Này",
+                    "alias": "Chung-Ta-Sau-Nay-T-R-I",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "T.R.I",
+                    "artists": [
+                        {
+                            "id": "IW6W88E8",
+                            "name": "T.R.I",
+                            "link": "/T-R-I",
+                            "spotlight": false,
+                            "alias": "T-R-I",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/4/5/f/c45f36d03019798fc05bad4eb412a5ff.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/4/5/f/c45f36d03019798fc05bad4eb412a5ff.jpg",
+                            "isOA": true,
+                            "isOABrand": false,
+                            "playlistId": "6UW9B8BB"
+                        }
+                    ],
+                    "isWorldWide": true,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/3/1/8/1/3181865d1e0a2c508cd7fbad5f022254.jpg",
+                    "link": "/bai-hat/Chung-Ta-Sau-Nay-T-R-I/ZZ9O0AEF.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/3/1/8/1/3181865d1e0a2c508cd7fbad5f022254.jpg",
+                    "duration": 211,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 1611921600,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ97FCD"
+                    ],
+                    "distributor": "Yin Yang Media",
+                    "indicators": [],
+                    "isIndie": false,
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "ZW7FC9O7",
+                    "title": "Tháng Năm Rực Rỡ",
+                    "alias": "Thang-Nam-Ruc-Ro-Kai-Dinh",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "Kai Đinh",
+                    "artists": [
+                        {
+                            "id": "IWZ9FFE0",
+                            "name": "Kai Đinh",
+                            "link": "/Kai-Dinh",
+                            "spotlight": false,
+                            "alias": "Kai-Dinh",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/a/d/f/0adf3c50531b65edcfe1cdd29dc5ae78.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/a/d/f/0adf3c50531b65edcfe1cdd29dc5ae78.jpg",
+                            "isOA": true,
+                            "isOABrand": false,
+                            "playlistId": "ZOZAOIEU"
+                        }
+                    ],
+                    "isWorldWide": false,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/7/b/7b7b6edb8801aa6e8373b5e3eff04000_1495774731.jpg",
+                    "link": "/bai-hat/Thang-Nam-Ruc-Ro-Kai-Dinh/ZW7FC9O7.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/7/b/7b7b6edb8801aa6e8373b5e3eff04000_1495774731.jpg",
+                    "duration": 284,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 0,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ97FCD"
+                    ],
+                    "distributor": "SKY Music",
+                    "indicators": [],
+                    "radioId": 1285799175,
+                    "isIndie": false,
+                    "streamingStatus": 1,
+                    "allowAudioAds": false,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "ZWAEW0UO",
+                    "title": "Nếu Ngày Ấy",
+                    "alias": "Neu-Ngay-Ay-SOOBIN",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "SOOBIN",
+                    "artists": [
+                        {
+                            "id": "IWZ997CU",
+                            "name": "SOOBIN",
+                            "link": "/nghe-si/SOOBIN",
+                            "spotlight": true,
+                            "alias": "SOOBIN",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/5/b/d/25bd8e70180cbf5714c3c8b0a3b57834.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/5/b/d/25bd8e70180cbf5714c3c8b0a3b57834.jpg",
+                            "isOA": false,
+                            "isOABrand": false,
+                            "playlistId": "ZWZAEAD9"
+                        }
+                    ],
+                    "isWorldWide": true,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/2/9/b/f/29bf1c15a2aeacf72a2fa1e84d92f3e9.jpg",
+                    "link": "/bai-hat/Neu-Ngay-Ay-SOOBIN/ZWAEW0UO.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/2/9/b/f/29bf1c15a2aeacf72a2fa1e84d92f3e9.jpg",
+                    "duration": 293,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 0,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ9Z088",
+                        "IWZ97FCD"
+                    ],
+                    "album": {
+                        "encodeId": "ZZ7C9FFF",
+                        "title": "Nếu Ngày Ấy (Single)",
+                        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/2/9/b/f/29bf1c15a2aeacf72a2fa1e84d92f3e9.jpg",
+                        "isoffical": true,
+                        "link": "/album/Neu-Ngay-Ay-Single-SOOBIN/ZZ7C9FFF.html",
+                        "isIndie": false,
+                        "releaseDate": "2019",
+                        "sortDescription": "",
+                        "releasedAt": 1577725200000,
+                        "genreIds": [
+                            "IWZ9Z08I",
+                            "IWZ9Z088",
+                            "IWZ97FCD"
+                        ],
+                        "PR": false,
+                        "artists": [
+                            {
+                                "id": "IWZ997CU",
+                                "name": "SOOBIN",
+                                "link": "/nghe-si/SOOBIN",
+                                "spotlight": true,
+                                "alias": "SOOBIN",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/5/b/d/25bd8e70180cbf5714c3c8b0a3b57834.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/5/b/d/25bd8e70180cbf5714c3c8b0a3b57834.jpg",
+                                "isOA": false,
+                                "isOABrand": false,
+                                "playlistId": "ZWZAEAD9",
+                                "totalFollow": 507379
+                            }
+                        ],
+                        "artistsNames": "SOOBIN"
+                    },
+                    "distributor": "SPACESPEAKERS",
+                    "indicators": [],
+                    "radioId": 1286774389,
+                    "isIndie": false,
+                    "mvlink": "/video-clip/Neu-Ngay-Ay-SOOBIN/ZWAEW0UO.html",
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "ZWAFIZZ0",
+                    "title": "Trời Giấu Trời Mang Đi",
+                    "alias": "Troi-Giau-Troi-Mang-Di-AMEE-ViruSs",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "AMEE, ViruSs",
+                    "artists": [
+                        {
+                            "id": "IW6WBZWO",
+                            "name": "AMEE",
+                            "link": "/AMEE",
+                            "spotlight": false,
+                            "alias": "AMEE",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/f/d/a/2fda5f39b5adca3bad9c4bfc6d586f68.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/f/d/a/2fda5f39b5adca3bad9c4bfc6d586f68.jpg",
+                            "isOA": true,
+                            "isOABrand": false,
+                            "playlistId": "ZZ7F60I7"
+                        },
+                        {
+                            "id": "IW6WB0WD",
+                            "name": "ViruSs",
+                            "link": "/VirusS",
+                            "spotlight": false,
+                            "alias": "VirusS",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/9/3/8/993885d276927b7426b18b401dc9a833.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/9/3/8/993885d276927b7426b18b401dc9a833.jpg",
+                            "isOA": true,
+                            "isOABrand": false,
+                            "playlistId": "6UW9BB0E"
+                        }
+                    ],
+                    "isWorldWide": true,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/d/9/6/9d9648688a40aecb85f8b70ebe21e82e.jpg",
+                    "link": "/bai-hat/Troi-Giau-Troi-Mang-Di-AMEE-ViruSs/ZWAFIZZ0.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/9/d/9/6/9d9648688a40aecb85f8b70ebe21e82e.jpg",
+                    "duration": 258,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 0,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ9Z088",
+                        "IWZ97FCD"
+                    ],
+                    "album": {
+                        "encodeId": "ZA9UAOOU",
+                        "title": "Trời Giấu Trời Mang Đi (Single)",
+                        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/9/d/9/6/9d9648688a40aecb85f8b70ebe21e82e.jpg",
+                        "isoffical": true,
+                        "link": "/album/Troi-Giau-Troi-Mang-Di-Single-AMEE-ViruSs/ZA9UAOOU.html",
+                        "isIndie": false,
+                        "releaseDate": "2019",
+                        "sortDescription": "",
+                        "releasedAt": 1577725200000,
+                        "genreIds": [
+                            "IWZ9Z08I",
+                            "IWZ9Z088",
+                            "IWZ97FCD"
+                        ],
+                        "PR": false,
+                        "artists": [
+                            {
+                                "id": "IW6WBZWO",
+                                "name": "AMEE",
+                                "link": "/AMEE",
+                                "spotlight": false,
+                                "alias": "AMEE",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/f/d/a/2fda5f39b5adca3bad9c4bfc6d586f68.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/f/d/a/2fda5f39b5adca3bad9c4bfc6d586f68.jpg",
+                                "isOA": true,
+                                "isOABrand": false,
+                                "playlistId": "ZZ7F60I7",
+                                "totalFollow": 404631
+                            },
+                            {
+                                "id": "IW6WB0WD",
+                                "name": "ViruSs",
+                                "link": "/VirusS",
+                                "spotlight": false,
+                                "alias": "VirusS",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/9/3/8/993885d276927b7426b18b401dc9a833.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/9/3/8/993885d276927b7426b18b401dc9a833.jpg",
+                                "isOA": true,
+                                "isOABrand": false,
+                                "playlistId": "6UW9BB0E",
+                                "totalFollow": 36603
+                            }
+                        ],
+                        "artistsNames": "AMEE, ViruSs"
+                    },
+                    "distributor": "ST.319",
+                    "indicators": [],
+                    "radioId": 1286792280,
+                    "isIndie": false,
+                    "mvlink": "/video-clip/Troi-Giau-Troi-Mang-Di-AMEE-ViruSs/ZWAFIZZ0.html",
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "ZZ9O0AEA",
+                    "title": "Tình Nào Không Như Tình Đầu",
+                    "alias": "Tinh-Nao-Khong-Nhu-Tinh-Dau-Trung-Quan-Idol",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "Trung Quân Idol",
+                    "artists": [
+                        {
+                            "id": "IWZ96C8Z",
+                            "name": "Trung Quân",
+                            "link": "/Trung-Quan",
+                            "spotlight": false,
+                            "alias": "Trung-Quan",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/d/3/8/2d38d415b2e3012671f0d9f1e257ff48.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/d/3/8/2d38d415b2e3012671f0d9f1e257ff48.jpg",
+                            "isOA": true,
+                            "isOABrand": false,
+                            "playlistId": "ZWZBIBBI"
+                        }
+                    ],
+                    "isWorldWide": true,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/a/3/b/1/a3b16b4a7d524e526c8c6540955c4f0a.jpg",
+                    "link": "/bai-hat/Tinh-Nao-Khong-Nhu-Tinh-Dau-Trung-Quan-Idol/ZZ9O0AEA.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/a/3/b/1/a3b16b4a7d524e526c8c6540955c4f0a.jpg",
+                    "duration": 282,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 1600344000,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ97FCD"
+                    ],
+                    "album": {
+                        "encodeId": "6B70I6IZ",
+                        "title": "Tình Nào Không Như Tình Đầu (Single)",
+                        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/4/d/2/a/4d2a466d75757d68e1f13363d9a3c73f.jpg",
+                        "isoffical": true,
+                        "link": "/album/Tinh-Nao-Khong-Nhu-Tinh-Dau-Single-Trung-Quan-Idol/6B70I6IZ.html",
+                        "isIndie": false,
+                        "releaseDate": "17/09/2020",
+                        "sortDescription": "",
+                        "releasedAt": 1600344000000,
+                        "genreIds": [
+                            "IWZ9Z08I",
+                            "IWZ97FCD"
+                        ],
+                        "PR": false,
+                        "artists": [
+                            {
+                                "id": "IWZ96C8Z",
+                                "name": "Trung Quân",
+                                "link": "/Trung-Quan",
+                                "spotlight": false,
+                                "alias": "Trung-Quan",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/d/3/8/2d38d415b2e3012671f0d9f1e257ff48.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/d/3/8/2d38d415b2e3012671f0d9f1e257ff48.jpg",
+                                "isOA": true,
+                                "isOABrand": false,
+                                "playlistId": "ZWZBIBBI",
+                                "totalFollow": 163019
+                            }
+                        ],
+                        "artistsNames": "Trung Quân Idol"
+                    },
+                    "distributor": "Yin Yang Media",
+                    "indicators": [],
+                    "isIndie": false,
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "ZOEOOC6D",
+                    "title": "Răng Khôn",
+                    "alias": "Rang-Khon-Phi-Phuong-Anh-RIN9",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "Phí Phương Anh, RIN9",
+                    "artists": [
+                        {
+                            "id": "IW68C6Z8",
+                            "name": "Phí Phương Anh",
+                            "link": "/Phi-Phuong-Anh",
+                            "spotlight": false,
+                            "alias": "Phi-Phuong-Anh",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/9/5/1/2951b0ed8de1345a018a50965d8b526d.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/9/5/1/2951b0ed8de1345a018a50965d8b526d.jpg",
+                            "isOA": true,
+                            "isOABrand": false,
+                            "playlistId": "67IZCBFW"
+                        },
+                        {
+                            "id": "IWZFDZDA",
+                            "name": "RIN9",
+                            "link": "/nghe-si/RIN9",
+                            "spotlight": false,
+                            "alias": "RIN9",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/2/c/8/92c8d7b5301bb7d96b9310ae21a457b1.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/2/c/8/92c8d7b5301bb7d96b9310ae21a457b1.jpg",
+                            "isOA": false,
+                            "isOABrand": false,
+                            "playlistId": "6UW9BZZE"
+                        }
+                    ],
+                    "isWorldWide": true,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/b/7/b/5/b7b5b99e4aa374702ce8ee64858a9bbb.jpg",
+                    "link": "/bai-hat/Rang-Khon-Phi-Phuong-Anh-RIN9/ZOEOOC6D.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/b/7/b/5/b7b5b99e4aa374702ce8ee64858a9bbb.jpg",
+                    "duration": 232,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 1619006400,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ9Z088",
+                        "IWZ97FCD"
+                    ],
+                    "album": {
+                        "encodeId": "67EF0WDI",
+                        "title": "Răng Khôn (Single)",
+                        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/b/7/b/5/b7b5b99e4aa374702ce8ee64858a9bbb.jpg",
+                        "isoffical": true,
+                        "link": "/album/Rang-Khon-Single-Phi-Phuong-Anh/67EF0WDI.html",
+                        "isIndie": false,
+                        "releaseDate": "21/04/2021",
+                        "sortDescription": "",
+                        "releasedAt": 1618938000000,
+                        "genreIds": [
+                            "IWZ9Z08I",
+                            "IWZ9Z088",
+                            "IWZ97FCD"
+                        ],
+                        "PR": false,
+                        "artists": [
+                            {
+                                "id": "IW68C6Z8",
+                                "name": "Phí Phương Anh",
+                                "link": "/Phi-Phuong-Anh",
+                                "spotlight": false,
+                                "alias": "Phi-Phuong-Anh",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/9/5/1/2951b0ed8de1345a018a50965d8b526d.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/9/5/1/2951b0ed8de1345a018a50965d8b526d.jpg",
+                                "isOA": true,
+                                "isOABrand": false,
+                                "playlistId": "67IZCBFW",
+                                "totalFollow": 13281
+                            }
+                        ],
+                        "artistsNames": "Phí Phương Anh"
+                    },
+                    "distributor": "DREAMER Group",
+                    "indicators": [],
+                    "radioId": 1437671346,
+                    "isIndie": false,
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "ZW7AUI8C",
+                    "title": "Điều Buồn Nhất",
+                    "alias": "Dieu-Buon-Nhat-Kai-Dinh",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "Kai Đinh",
+                    "artists": [
+                        {
+                            "id": "IWZ9FFE0",
+                            "name": "Kai Đinh",
+                            "link": "/Kai-Dinh",
+                            "spotlight": false,
+                            "alias": "Kai-Dinh",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/a/d/f/0adf3c50531b65edcfe1cdd29dc5ae78.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/a/d/f/0adf3c50531b65edcfe1cdd29dc5ae78.jpg",
+                            "isOA": true,
+                            "isOABrand": false,
+                            "playlistId": "ZOZAOIEU"
+                        }
+                    ],
+                    "isWorldWide": true,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/5/0/50e613e21b499290633d17cff0776e61_1489728059.jpg",
+                    "link": "/bai-hat/Dieu-Buon-Nhat-Kai-Dinh/ZW7AUI8C.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/5/0/50e613e21b499290633d17cff0776e61_1489728059.jpg",
+                    "duration": 221,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 0,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ9Z088",
+                        "IWZ97FCD"
+                    ],
+                    "album": {
+                        "encodeId": "ZOZIEFW7",
+                        "title": "Điều Buồn Nhất (Single)",
+                        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/5/0/50e613e21b499290633d17cff0776e61_1489728059.jpg",
+                        "isoffical": true,
+                        "link": "/album/Dieu-Buon-Nhat-Single-Kai-Dinh/ZOZIEFW7.html",
+                        "isIndie": false,
+                        "releaseDate": "2017",
+                        "sortDescription": "",
+                        "releasedAt": 1514653200000,
+                        "genreIds": [
+                            "IWZ9Z08I",
+                            "IWZ9Z088"
+                        ],
+                        "PR": false,
+                        "artists": [
+                            {
+                                "id": "IWZ9FFE0",
+                                "name": "Kai Đinh",
+                                "link": "/Kai-Dinh",
+                                "spotlight": false,
+                                "alias": "Kai-Dinh",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/a/d/f/0adf3c50531b65edcfe1cdd29dc5ae78.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/a/d/f/0adf3c50531b65edcfe1cdd29dc5ae78.jpg",
+                                "isOA": true,
+                                "isOABrand": false,
+                                "playlistId": "ZOZAOIEU",
+                                "totalFollow": 11943
+                            }
+                        ],
+                        "artistsNames": "Kai Đinh"
+                    },
+                    "distributor": "Kai Đinh",
+                    "indicators": [],
+                    "radioId": 1285559268,
+                    "isIndie": false,
+                    "mvlink": "/video-clip/Dieu-Buon-Nhat-Kai-Dinh/ZW7AUI8C.html",
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "ZZBAFB9A",
+                    "title": "Tình Đầu",
+                    "alias": "Tinh-Dau-Tang-Phuc",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "Tăng Phúc",
+                    "artists": [
+                        {
+                            "id": "IWZAEC86",
+                            "name": "Tăng Phúc",
+                            "link": "/Tang-Phuc",
+                            "spotlight": false,
+                            "alias": "Tang-Phuc",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/b/0/b/6b0b2ae7246c53afb23be5f7574ce636.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/6/b/0/b/6b0b2ae7246c53afb23be5f7574ce636.jpg",
+                            "isOA": true,
+                            "isOABrand": false,
+                            "playlistId": "ZOEIZOWF"
+                        }
+                    ],
+                    "isWorldWide": true,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/f/2/3/2/f232f18fb99341522b33cb15b3179394.jpg",
+                    "link": "/bai-hat/Tinh-Dau-Tang-Phuc/ZZBAFB9A.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/f/2/3/2/f232f18fb99341522b33cb15b3179394.jpg",
+                    "duration": 234,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 1653220800,
+                    "genreIds": [
+                        "IWZ97FCD",
+                        "IWZ9Z08I"
+                    ],
+                    "album": {
+                        "encodeId": "6BOU8ACA",
+                        "title": "Tình Đầu (Single)",
+                        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/3/b/a/0/3ba09a53dbab5e2d45a517b22cdc8faf.jpg",
+                        "isoffical": true,
+                        "link": "/album/Tinh-Dau-Single-Tang-Phuc/6BOU8ACA.html",
+                        "isIndie": false,
+                        "releaseDate": "22/05/2022",
+                        "sortDescription": "",
+                        "releasedAt": 1653152400000,
+                        "genreIds": [
+                            "IWZ97FCD",
+                            "IWZ9Z08I"
+                        ],
+                        "PR": false,
+                        "artists": [
+                            {
+                                "id": "IWZAEC86",
+                                "name": "Tăng Phúc",
+                                "link": "/Tang-Phuc",
+                                "spotlight": false,
+                                "alias": "Tang-Phuc",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/b/0/b/6b0b2ae7246c53afb23be5f7574ce636.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/6/b/0/b/6b0b2ae7246c53afb23be5f7574ce636.jpg",
+                                "isOA": true,
+                                "isOABrand": false,
+                                "playlistId": "ZOEIZOWF",
+                                "totalFollow": 106195
+                            }
+                        ],
+                        "artistsNames": "Tăng Phúc"
+                    },
+                    "distributor": "MIXUS",
+                    "indicators": [],
+                    "isIndie": false,
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "ZUO9AOBC",
+                    "title": "tình yêu chậm trễ",
+                    "alias": "tinh-yeu-cham-tre-MONSTAR",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "MONSTAR",
+                    "artists": [
+                        {
+                            "id": "IWZA809W",
+                            "name": "MONSTAR",
+                            "link": "/MONSTAR",
+                            "spotlight": false,
+                            "alias": "MONSTAR",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/5/3/e/853e5654e7406aa28089c99729392dcd.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/8/5/3/e/853e5654e7406aa28089c99729392dcd.jpg",
+                            "isOA": true,
+                            "isOABrand": false,
+                            "playlistId": "ZOZAOIB0"
+                        }
+                    ],
+                    "isWorldWide": true,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/b/2/6/b/b26bfd4fe0ee46f38979044bc018c9d3.jpg",
+                    "link": "/bai-hat/tinh-yeu-cham-tre-MONSTAR/ZUO9AOBC.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/b/2/6/b/b26bfd4fe0ee46f38979044bc018c9d3.jpg",
+                    "duration": 245,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 1627819200,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ97FCD"
+                    ],
+                    "album": {
+                        "encodeId": "68DBCU0C",
+                        "title": "Over The Moon",
+                        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/b/2/6/b/b26bfd4fe0ee46f38979044bc018c9d3.jpg",
+                        "isoffical": true,
+                        "link": "/album/Over-The-Moon-MONSTAR/68DBCU0C.html",
+                        "isIndie": false,
+                        "releaseDate": "01/08/2021",
+                        "sortDescription": "",
+                        "releasedAt": 1627750800000,
+                        "genreIds": [
+                            "IWZ9Z08I",
+                            "IWZ97FCD"
+                        ],
+                        "PR": false,
+                        "artists": [
+                            {
+                                "id": "IWZA809W",
+                                "name": "MONSTAR",
+                                "link": "/MONSTAR",
+                                "spotlight": false,
+                                "alias": "MONSTAR",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/5/3/e/853e5654e7406aa28089c99729392dcd.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/8/5/3/e/853e5654e7406aa28089c99729392dcd.jpg",
+                                "isOA": true,
+                                "isOABrand": false,
+                                "playlistId": "ZOZAOIB0",
+                                "totalFollow": 51169
+                            }
+                        ],
+                        "artistsNames": "MONSTAR"
+                    },
+                    "distributor": "ST.319",
+                    "indicators": [],
+                    "radioId": 1460644308,
+                    "isIndie": false,
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "Z6ZO8UBU",
+                    "title": "Anh Làm Tất Cả Vì",
+                    "alias": "Anh-Lam-Tat-Ca-Vi-Nguyen-eth",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "Nguyên., $eth",
+                    "artists": [
+                        {
+                            "id": "IW6W8WCC",
+                            "name": "Nguyên.",
+                            "link": "/Nguyen-Tran-Trung-Nguyen",
+                            "spotlight": false,
+                            "alias": "Nguyen-Tran-Trung-Nguyen",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/e/5/a/0e5a2d1447f29f51a635c7072c1bdcbc.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/e/5/a/0e5a2d1447f29f51a635c7072c1bdcbc.jpg",
+                            "isOA": true,
+                            "isOABrand": false,
+                            "playlistId": "6UW9B8IW"
+                        },
+                        {
+                            "id": "IW6W8OA7",
+                            "name": "$eth",
+                            "link": "/Seth-Rapper",
+                            "spotlight": false,
+                            "alias": "Seth-Rapper",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/3/b/3b675f6be9fecb24c42a18989e4697ca_1520565053.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/3/b/3b675f6be9fecb24c42a18989e4697ca_1520565053.jpg",
+                            "isOA": true,
+                            "isOABrand": false,
+                            "playlistId": "6UW9B8WO"
+                        }
+                    ],
+                    "isWorldWide": true,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/2/5/a/2/25a28a27792d182eb904f70278112221.jpg",
+                    "link": "/bai-hat/Anh-Lam-Tat-Ca-Vi-Nguyen-eth/Z6ZO8UBU.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/2/5/a/2/25a28a27792d182eb904f70278112221.jpg",
+                    "duration": 284,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 1671959520,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ97FCD"
+                    ],
+                    "album": {
+                        "encodeId": "6B7EWCAC",
+                        "title": "Anh Làm Tất Cả Vì (Single)",
+                        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/2/5/a/2/25a28a27792d182eb904f70278112221.jpg",
+                        "isoffical": true,
+                        "link": "/album/Anh-Lam-Tat-Ca-Vi-Single-Nguyen-eth/6B7EWCAC.html",
+                        "isIndie": false,
+                        "releaseDate": "25/12/2022",
+                        "sortDescription": "",
+                        "releasedAt": 1671959460000,
+                        "genreIds": [
+                            "IWZ9Z08I",
+                            "IWZ97FCD"
+                        ],
+                        "PR": false,
+                        "artists": [
+                            {
+                                "id": "IW6W8WCC",
+                                "name": "Nguyên.",
+                                "link": "/Nguyen-Tran-Trung-Nguyen",
+                                "spotlight": false,
+                                "alias": "Nguyen-Tran-Trung-Nguyen",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/e/5/a/0e5a2d1447f29f51a635c7072c1bdcbc.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/e/5/a/0e5a2d1447f29f51a635c7072c1bdcbc.jpg",
+                                "isOA": true,
+                                "isOABrand": false,
+                                "playlistId": "6UW9B8IW",
+                                "totalFollow": 15869
+                            },
+                            {
+                                "id": "IW6W8OA7",
+                                "name": "$eth",
+                                "link": "/Seth-Rapper",
+                                "spotlight": false,
+                                "alias": "Seth-Rapper",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/3/b/3b675f6be9fecb24c42a18989e4697ca_1520565053.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/3/b/3b675f6be9fecb24c42a18989e4697ca_1520565053.jpg",
+                                "isOA": true,
+                                "isOABrand": false,
+                                "playlistId": "6UW9B8WO",
+                                "totalFollow": 4250
+                            }
+                        ],
+                        "artistsNames": "Nguyên., $eth"
+                    },
+                    "distributor": "DAO Music Entertainment",
+                    "indicators": [],
+                    "isIndie": false,
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "ZWC0FO9O",
+                    "title": "Mãi Mãi Không Phải Anh",
+                    "alias": "Mai-Mai-Khong-Phai-Anh-Thanh-Binh",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "Thanh Bình",
+                    "artists": [
+                        {
+                            "id": "IW67C6Z8",
+                            "name": "Thanh Bình",
+                            "link": "/nghe-si/To-Thanh-Binh",
+                            "spotlight": false,
+                            "alias": "To-Thanh-Binh",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/6/6/d/c66d2053e7e4a822ceb1e19d62ed7303.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/6/6/d/c66d2053e7e4a822ceb1e19d62ed7303.jpg",
+                            "isOA": false,
+                            "isOABrand": false,
+                            "playlistId": "6UW9CUBZ"
+                        }
+                    ],
+                    "isWorldWide": true,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/b/6/0/8b60c63bca80097a24b834bdb2400bf2.jpg",
+                    "link": "/bai-hat/Mai-Mai-Khong-Phai-Anh-Thanh-Binh/ZWC0FO9O.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/8/b/6/0/8b60c63bca80097a24b834bdb2400bf2.jpg",
+                    "duration": 273,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 1595576700,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ9Z088",
+                        "IWZ97FCD"
+                    ],
+                    "album": {
+                        "encodeId": "6I9A8EB9",
+                        "title": "Mãi Mãi Không Phải Anh (Single)",
+                        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/d/7/9/e/d79ec3fb107c29dbf57f1fac90bebd7f.jpg",
+                        "isoffical": true,
+                        "link": "/album/Mai-Mai-Khong-Phai-Anh-Single-Thanh-Binh/6I9A8EB9.html",
+                        "isIndie": false,
+                        "releaseDate": "24/07/2020",
+                        "sortDescription": "",
+                        "releasedAt": 1595523600000,
+                        "genreIds": [
+                            "IWZ9Z08I",
+                            "IWZ9Z088",
+                            "IWZ97FCD"
+                        ],
+                        "PR": false,
+                        "artists": [
+                            {
+                                "id": "IW67C6Z8",
+                                "name": "Thanh Bình",
+                                "link": "/nghe-si/To-Thanh-Binh",
+                                "spotlight": false,
+                                "alias": "To-Thanh-Binh",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/6/6/d/c66d2053e7e4a822ceb1e19d62ed7303.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/6/6/d/c66d2053e7e4a822ceb1e19d62ed7303.jpg",
+                                "isOA": false,
+                                "isOABrand": false,
+                                "playlistId": "6UW9CUBZ",
+                                "totalFollow": 8766
+                            }
+                        ],
+                        "artistsNames": "Thanh Bình"
+                    },
+                    "distributor": "BD Media",
+                    "indicators": [],
+                    "radioId": 1331751342,
+                    "isIndie": false,
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "Z6Z0B66E",
+                    "title": "haydeanhduoccungemdau (feat. Kai Đinh)",
+                    "alias": "haydeanhduoccungemdau-feat-Kai-Dinh-SIVAN-Kai-Dinh",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "SIVAN, Kai Đinh",
+                    "artists": [
+                        {
+                            "id": "IW77EDII",
+                            "name": "SIVAN",
+                            "link": "/nghe-si/SIVAN",
+                            "spotlight": false,
+                            "alias": "SIVAN",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/1/7/e/f17eb4051848abfe9971d59a320a08d4.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/1/7/e/f17eb4051848abfe9971d59a320a08d4.jpg",
+                            "isOA": false,
+                            "isOABrand": false,
+                            "playlistId": "6BWZIEBD"
+                        },
+                        {
+                            "id": "IWZ9FFE0",
+                            "name": "Kai Đinh",
+                            "link": "/Kai-Dinh",
+                            "spotlight": false,
+                            "alias": "Kai-Dinh",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/a/d/f/0adf3c50531b65edcfe1cdd29dc5ae78.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/a/d/f/0adf3c50531b65edcfe1cdd29dc5ae78.jpg",
+                            "isOA": true,
+                            "isOABrand": false,
+                            "playlistId": "ZOZAOIEU"
+                        }
+                    ],
+                    "isWorldWide": true,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/f/1/4/b/f14b670e6d86d87dd5f08240d260f5a7.jpg",
+                    "link": "/bai-hat/haydeanhduoccungemdau-feat-Kai-Dinh-SIVAN-Kai-Dinh/Z6Z0B66E.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/f/1/4/b/f14b670e6d86d87dd5f08240d260f5a7.jpg",
+                    "duration": 229,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 1671973200,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ97FCD"
+                    ],
+                    "album": {
+                        "encodeId": "6B7CDCBI",
+                        "title": "OXO (EP)",
+                        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/5/4/2/c/542c964def4c9f4162db1298ebb6edd4.jpg",
+                        "isoffical": true,
+                        "link": "/album/OXO-EP-SIVAN/6B7CDCBI.html",
+                        "isIndie": false,
+                        "releaseDate": "25/12/2022",
+                        "sortDescription": "",
+                        "releasedAt": 1671973200000,
+                        "genreIds": [
+                            "IWZ9Z08I",
+                            "IWZ97FCD"
+                        ],
+                        "PR": false,
+                        "artists": [
+                            {
+                                "id": "IW77EDII",
+                                "name": "SIVAN",
+                                "link": "/nghe-si/SIVAN",
+                                "spotlight": false,
+                                "alias": "SIVAN",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/1/7/e/f17eb4051848abfe9971d59a320a08d4.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/1/7/e/f17eb4051848abfe9971d59a320a08d4.jpg",
+                                "isOA": false,
+                                "isOABrand": false,
+                                "playlistId": "6BWZIEBD",
+                                "totalFollow": 732
+                            }
+                        ],
+                        "artistsNames": "SIVAN"
+                    },
+                    "distributor": "LOOPS Music",
+                    "indicators": [],
+                    "isIndie": false,
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "ZW80BZF6",
+                    "title": "Tình Đầu",
+                    "alias": "Tinh-Dau-Suni-Ha-Linh",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "Suni Hạ Linh",
+                    "artists": [
+                        {
+                            "id": "IWZAZCC6",
+                            "name": "Suni Hạ Linh",
+                            "link": "/Suni-Ha-Linh",
+                            "spotlight": false,
+                            "alias": "Suni-Ha-Linh",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/e/5/1/3/e5132977d0df155b73a7637283fb1499.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/e/5/1/3/e5132977d0df155b73a7637283fb1499.jpg",
+                            "isOA": true,
+                            "isOABrand": false,
+                            "playlistId": "ZOU8EUO8"
+                        }
+                    ],
+                    "isWorldWide": true,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/3/3/33f82ade1abad8bf799b3103bf21d9aa_1500626950.jpg",
+                    "link": "/bai-hat/Tinh-Dau-Suni-Ha-Linh/ZW80BZF6.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/3/3/33f82ade1abad8bf799b3103bf21d9aa_1500626950.jpg",
+                    "duration": 273,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 0,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ9Z088",
+                        "IWZ97FCD"
+                    ],
+                    "album": {
+                        "encodeId": "ZO6WEDEO",
+                        "title": "Cảm Nắng (Single)",
+                        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/3/3/33f82ade1abad8bf799b3103bf21d9aa_1500626950.jpg",
+                        "isoffical": true,
+                        "link": "/album/Cam-Nang-Single-Suni-Ha-Linh/ZO6WEDEO.html",
+                        "isIndie": false,
+                        "releaseDate": "2017",
+                        "sortDescription": "",
+                        "releasedAt": 1514653200000,
+                        "genreIds": [
+                            "IWZ9Z08I",
+                            "IWZ9Z088"
+                        ],
+                        "PR": false,
+                        "artists": [
+                            {
+                                "id": "IWZAZCC6",
+                                "name": "Suni Hạ Linh",
+                                "link": "/Suni-Ha-Linh",
+                                "spotlight": false,
+                                "alias": "Suni-Ha-Linh",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/e/5/1/3/e5132977d0df155b73a7637283fb1499.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/e/5/1/3/e5132977d0df155b73a7637283fb1499.jpg",
+                                "isOA": true,
+                                "isOABrand": false,
+                                "playlistId": "ZOU8EUO8",
+                                "totalFollow": 108614
+                            }
+                        ],
+                        "artistsNames": "Suni Hạ Linh"
+                    },
+                    "distributor": "MIXUS",
+                    "indicators": [],
+                    "radioId": 1285820249,
+                    "isIndie": false,
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "ZW8I76Z8",
+                    "title": "1 Phút",
+                    "alias": "1-Phut-Andiez",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "Andiez",
+                    "artists": [
+                        {
+                            "id": "IWZ98O8W",
+                            "name": "Andiez",
+                            "link": "/Andiez",
+                            "spotlight": false,
+                            "alias": "Andiez",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/b/a/7/dba71d2381abcab4b5988f6fea4f9e11.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/d/b/a/7/dba71d2381abcab4b5988f6fea4f9e11.jpg",
+                            "isOA": true,
+                            "isOABrand": false,
+                            "playlistId": "ZO698C98"
+                        }
+                    ],
+                    "isWorldWide": true,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/b/3/3/9/b339caaf9ac43b1621cc2a793666748d.jpg",
+                    "link": "/bai-hat/1-Phut-Andiez/ZW8I76Z8.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/b/3/3/9/b339caaf9ac43b1621cc2a793666748d.jpg",
+                    "duration": 376,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 1503594000,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ9Z088",
+                        "IWZ97FCD"
+                    ],
+                    "distributor": "MIXUS",
+                    "indicators": [],
+                    "radioId": 1285831398,
+                    "isIndie": false,
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "ZWB0EUU6",
+                    "title": "Tình Đầu",
+                    "alias": "Tinh-Dau-Tang-Duy-Tan",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "Tăng Duy Tân",
+                    "artists": [
+                        {
+                            "id": "IW6W8FO8",
+                            "name": "Tăng Duy Tân",
+                            "link": "/Tang-Duy-Tan",
+                            "spotlight": false,
+                            "alias": "Tang-Duy-Tan",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/8/9/e/189eded903fb5aac5efe11f28d36f305.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/8/9/e/189eded903fb5aac5efe11f28d36f305.jpg",
+                            "isOA": true,
+                            "isOABrand": false,
+                            "playlistId": "6UW9B9UA"
+                        }
+                    ],
+                    "isWorldWide": true,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/a/d/1/0ad18644161b1bbe41bc1ca0471600ba.jpg",
+                    "link": "/bai-hat/Tinh-Dau-Tang-Duy-Tan/ZWB0EUU6.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/a/d/1/0ad18644161b1bbe41bc1ca0471600ba.jpg",
+                    "duration": 298,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 1581512400,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ9Z088",
+                        "IWZ97FCD"
+                    ],
+                    "album": {
+                        "encodeId": "ZF6D6EO6",
+                        "title": "Tình Đầu (Single)",
+                        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/0/a/d/1/0ad18644161b1bbe41bc1ca0471600ba.jpg",
+                        "isoffical": true,
+                        "link": "/album/Tinh-Dau-Single-Tang-Duy-Tan/ZF6D6EO6.html",
+                        "isIndie": false,
+                        "releaseDate": "2020",
+                        "sortDescription": "",
+                        "releasedAt": 1609347600000,
+                        "genreIds": [
+                            "IWZ9Z08I",
+                            "IWZ9Z088",
+                            "IWZ97FCD"
+                        ],
+                        "PR": false,
+                        "artists": [
+                            {
+                                "id": "IW6W8FO8",
+                                "name": "Tăng Duy Tân",
+                                "link": "/Tang-Duy-Tan",
+                                "spotlight": false,
+                                "alias": "Tang-Duy-Tan",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/8/9/e/189eded903fb5aac5efe11f28d36f305.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/8/9/e/189eded903fb5aac5efe11f28d36f305.jpg",
+                                "isOA": true,
+                                "isOABrand": false,
+                                "playlistId": "6UW9B9UA",
+                                "totalFollow": 55202
+                            }
+                        ],
+                        "artistsNames": "Tăng Duy Tân"
+                    },
+                    "distributor": "MIXUS",
+                    "indicators": [],
+                    "radioId": 1294827214,
+                    "isIndie": false,
+                    "mvlink": "/video-clip/Tinh-Dau-Tang-Duy-Tan/ZWB0EUU6.html",
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "ZU9F6W97",
+                    "title": "Liệu Chân Thành Có Đổi Được Chân Tình",
+                    "alias": "Lieu-Chan-Thanh-Co-Doi-Duoc-Chan-Tinh-Huyen-Tam-Mon",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "Huyền Tâm Môn",
+                    "artists": [
+                        {
+                            "id": "IW67C60F",
+                            "name": "Huyền Tâm Môn",
+                            "link": "/Huyen-Tam-Mon",
+                            "spotlight": false,
+                            "alias": "Huyen-Tam-Mon",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/9/3/8/093889299fe3e2c1f97b993e23866f64.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/9/3/8/093889299fe3e2c1f97b993e23866f64.jpg",
+                            "isOA": true,
+                            "isOABrand": false,
+                            "playlistId": "6UW9CUBW"
+                        }
+                    ],
+                    "isWorldWide": true,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/a/d/0/0ad0279acb323c9c15f01e0a610ca88c.jpg",
+                    "link": "/bai-hat/Lieu-Chan-Thanh-Co-Doi-Duoc-Chan-Tinh-Huyen-Tam-Mon/ZU9F6W97.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/a/d/0/0ad0279acb323c9c15f01e0a610ca88c.jpg",
+                    "duration": 391,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 1635598800,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ97FCD"
+                    ],
+                    "album": {
+                        "encodeId": "6976F90O",
+                        "title": "Liệu Chân Thành Có Đổi Được Chân Tình (Single)",
+                        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/7/d/8/d/7d8d1dbaf5539c2a55b04324bdd5ea12.jpg",
+                        "isoffical": true,
+                        "link": "/album/Lieu-Chan-Thanh-Co-Doi-Duoc-Chan-Tinh-Single-Huyen-Tam-Mon/6976F90O.html",
+                        "isIndie": false,
+                        "releaseDate": "30/10/2021",
+                        "sortDescription": "",
+                        "releasedAt": 1635526800000,
+                        "genreIds": [
+                            "IWZ9Z08I",
+                            "IWZ97FCD"
+                        ],
+                        "PR": false,
+                        "artists": [
+                            {
+                                "id": "IW67C60F",
+                                "name": "Huyền Tâm Môn",
+                                "link": "/Huyen-Tam-Mon",
+                                "spotlight": false,
+                                "alias": "Huyen-Tam-Mon",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/9/3/8/093889299fe3e2c1f97b993e23866f64.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/9/3/8/093889299fe3e2c1f97b993e23866f64.jpg",
+                                "isOA": true,
+                                "isOABrand": false,
+                                "playlistId": "6UW9CUBW",
+                                "totalFollow": 10857
+                            }
+                        ],
+                        "artistsNames": "Huyền Tâm Môn"
+                    },
+                    "distributor": "MIXUS",
+                    "indicators": [],
+                    "radioId": 1462601183,
+                    "isIndie": false,
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "Z68A6F9O",
+                    "title": "Chuyện Chúng Ta Sau Này",
+                    "alias": "Chuyen-Chung-Ta-Sau-Nay-Hai-Dang-Doo",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "Hải Đăng Doo",
+                    "artists": [
+                        {
+                            "id": "IW7886BF",
+                            "name": "Hải Đăng Doo",
+                            "link": "/nghe-si/Hai-Dang-Doo-IW7886BF",
+                            "spotlight": false,
+                            "alias": "Hai-Dang-Doo-IW7886BF",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/a/7/0/ca702e9d20babe647edb0e25c98e39c9.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/a/7/0/ca702e9d20babe647edb0e25c98e39c9.jpg",
+                            "isOA": false,
+                            "isOABrand": false,
+                            "playlistId": "SBB7FF86"
+                        }
+                    ],
+                    "isWorldWide": true,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/0/c/2/00c2a6e4d929830865540ee154e52211.jpg",
+                    "link": "/bai-hat/Chuyen-Chung-Ta-Sau-Nay-Hai-Dang-Doo/Z68A6F9O.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/0/c/2/00c2a6e4d929830865540ee154e52211.jpg",
+                    "duration": 246,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 1679745600,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ97FCD"
+                    ],
+                    "album": {
+                        "encodeId": "6B9AB9UZ",
+                        "title": "Chuyện Chúng Ta Sau Này (Single)",
+                        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/5/e/9/0/5e90e5efccc01a18f62589bf9ee409fd.jpg",
+                        "isoffical": true,
+                        "link": "/album/Chuyen-Chung-Ta-Sau-Nay-Single-Hai-Dang-Doo/6B9AB9UZ.html",
+                        "isIndie": false,
+                        "releaseDate": "25/03/2023",
+                        "sortDescription": "",
+                        "releasedAt": 1679745600000,
+                        "genreIds": [
+                            "IWZ9Z08I",
+                            "IWZ97FCD"
+                        ],
+                        "PR": false,
+                        "artists": [
+                            {
+                                "id": "IW7886BF",
+                                "name": "Hải Đăng Doo",
+                                "link": "/nghe-si/Hai-Dang-Doo-IW7886BF",
+                                "spotlight": false,
+                                "alias": "Hai-Dang-Doo-IW7886BF",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/a/7/0/ca702e9d20babe647edb0e25c98e39c9.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/a/7/0/ca702e9d20babe647edb0e25c98e39c9.jpg",
+                                "isOA": false,
+                                "isOABrand": false,
+                                "playlistId": "SBB7FF86",
+                                "totalFollow": 352
+                            }
+                        ],
+                        "artistsNames": "Hải Đăng Doo"
+                    },
+                    "distributor": "DAO Music Entertainment",
+                    "indicators": [],
+                    "isIndie": false,
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "Z66FFDED",
+                    "title": "Anh Đã Từ Bỏ Rồi Đấy",
+                    "alias": "Anh-Da-Tu-Bo-Roi-Day-Nguyenn-Aric",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "Nguyenn, Aric",
+                    "artists": [
+                        {
+                            "id": "IW7886Z7",
+                            "name": "Nguyenn",
+                            "link": "/nghe-si/Nguyenn",
+                            "spotlight": false,
+                            "alias": "Nguyenn",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/b/f/c/0bfc64039a4a7505fbbf9b2bd6ad8eeb.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/b/f/c/0bfc64039a4a7505fbbf9b2bd6ad8eeb.jpg",
+                            "isOA": false,
+                            "isOABrand": false,
+                            "playlistId": "6B7WAD9Z"
+                        },
+                        {
+                            "id": "IW7FC99A",
+                            "name": "Aric",
+                            "link": "/nghe-si/Aric-IW7FC99A",
+                            "spotlight": false,
+                            "alias": "Aric-IW7FC99A",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                            "isOA": false,
+                            "isOABrand": false
+                        }
+                    ],
+                    "isWorldWide": true,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/7/0/6/b/706b2e3d7175a9adfba716ece162ddbe.jpg",
+                    "link": "/bai-hat/Anh-Da-Tu-Bo-Roi-Day-Nguyenn-Aric/Z66FFDED.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/7/0/6/b/706b2e3d7175a9adfba716ece162ddbe.jpg",
+                    "duration": 304,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 1676379600,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ97FCD"
+                    ],
+                    "album": {
+                        "encodeId": "SB8E67A9",
+                        "title": "Anh Đã Từ Bỏ Rồi Đấy (Single)",
+                        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/6/6/5/5/66559a39390ff397c0c56a0a90f902ff.jpg",
+                        "isoffical": true,
+                        "link": "/album/Anh-Da-Tu-Bo-Roi-Day-Single-Nguyenn-Aric/SB8E67A9.html",
+                        "isIndie": false,
+                        "releaseDate": "14/02/2023",
+                        "sortDescription": "",
+                        "releasedAt": 1676379600000,
+                        "genreIds": [
+                            "IWZ9Z08I",
+                            "IWZ97FCD"
+                        ],
+                        "PR": false,
+                        "artists": [
+                            {
+                                "id": "IW7886Z7",
+                                "name": "Nguyenn",
+                                "link": "/nghe-si/Nguyenn",
+                                "spotlight": false,
+                                "alias": "Nguyenn",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/b/f/c/0bfc64039a4a7505fbbf9b2bd6ad8eeb.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/b/f/c/0bfc64039a4a7505fbbf9b2bd6ad8eeb.jpg",
+                                "isOA": false,
+                                "isOABrand": false,
+                                "playlistId": "6B7WAD9Z",
+                                "totalFollow": 1235
+                            },
+                            {
+                                "id": "IW7FC99A",
+                                "name": "Aric",
+                                "link": "/nghe-si/Aric-IW7FC99A",
+                                "spotlight": false,
+                                "alias": "Aric-IW7FC99A",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                                "isOA": false,
+                                "isOABrand": false,
+                                "totalFollow": 186
+                            }
+                        ],
+                        "artistsNames": "Nguyenn, Aric"
+                    },
+                    "distributor": "DAO Music Entertainment",
+                    "indicators": [],
+                    "isIndie": false,
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "ZWB06II0",
+                    "title": "Những Gì Anh Nói",
+                    "alias": "Nhung-Gi-Anh-Noi-Bozitt",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "Bozitt",
+                    "artists": [
+                        {
+                            "id": "IW6Z6AOE",
+                            "name": "Bozitt",
+                            "link": "/nghe-si/Bozitt",
+                            "spotlight": false,
+                            "alias": "Bozitt",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/d/5/4/2d5439265b6c010c37490152454dc942.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/d/5/4/2d5439265b6c010c37490152454dc942.jpg",
+                            "isOA": false,
+                            "isOABrand": false,
+                            "playlistId": "6UW9C07B"
+                        }
+                    ],
+                    "isWorldWide": true,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/f/6/7/e/f67e02fd1c88ce64cbcacad903329441.jpg",
+                    "link": "/bai-hat/Nhung-Gi-Anh-Noi-Bozitt/ZWB06II0.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/f/6/7/e/f67e02fd1c88ce64cbcacad903329441.jpg",
+                    "duration": 385,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 1578394800,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ9Z088",
+                        "IWZ97FCD"
+                    ],
+                    "album": {
+                        "encodeId": "ZE9D7AII",
+                        "title": "Những Gì Anh Nói (Single)",
+                        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/f/6/7/e/f67e02fd1c88ce64cbcacad903329441.jpg",
+                        "isoffical": true,
+                        "link": "/album/Nhung-Gi-Anh-Noi-Single-Bozitt/ZE9D7AII.html",
+                        "isIndie": false,
+                        "releaseDate": "2020",
+                        "sortDescription": "",
+                        "releasedAt": 1609347600000,
+                        "genreIds": [
+                            "IWZ9Z08I",
+                            "IWZ9Z088",
+                            "IWZ97FCD"
+                        ],
+                        "PR": false,
+                        "artists": [
+                            {
+                                "id": "IW6Z6AOE",
+                                "name": "Bozitt",
+                                "link": "/nghe-si/Bozitt",
+                                "spotlight": false,
+                                "alias": "Bozitt",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/d/5/4/2d5439265b6c010c37490152454dc942.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/d/5/4/2d5439265b6c010c37490152454dc942.jpg",
+                                "isOA": false,
+                                "isOABrand": false,
+                                "playlistId": "6UW9C07B",
+                                "totalFollow": 7459
+                            }
+                        ],
+                        "artistsNames": "Bozitt"
+                    },
+                    "distributor": "MIXUS",
+                    "indicators": [],
+                    "radioId": 1286809877,
+                    "isIndie": false,
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "Z676ZB0A",
+                    "title": "Không Chờ Đợi Nữa",
+                    "alias": "Khong-Cho-Doi-Nua-Khai",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "Khải",
+                    "artists": [
+                        {
+                            "id": "IW6ZU80I",
+                            "name": "Khải",
+                            "link": "/nghe-si/Khai",
+                            "spotlight": false,
+                            "alias": "Khai",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/3/f/2/13f22d575a8977a4155bcef68fbdcc5f.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/3/f/2/13f22d575a8977a4155bcef68fbdcc5f.jpg",
+                            "isOA": false,
+                            "isOABrand": false,
+                            "playlistId": "6UW9BEOB"
+                        }
+                    ],
+                    "isWorldWide": true,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/banner/e/2/1/4/e214fe60ecaf9c087b81bd593757cdc7.jpg",
+                    "link": "/bai-hat/Khong-Cho-Doi-Nua-Khai/Z676ZB0A.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/banner/e/2/1/4/e214fe60ecaf9c087b81bd593757cdc7.jpg",
+                    "duration": 259,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 1677333600,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ97FCD"
+                    ],
+                    "album": {
+                        "encodeId": "6BBBBUD0",
+                        "title": "vui lòng chờ... #chodenkhitoibietyeu (EP)",
+                        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/9/2/0/c/920c4b0d846008594a23575c2a0fd3d3.jpg",
+                        "isoffical": true,
+                        "link": "/album/vui-long-cho-chodenkhitoibietyeu-EP-Khai/6BBBBUD0.html",
+                        "isIndie": false,
+                        "releaseDate": "06/07/2023",
+                        "sortDescription": "",
+                        "releasedAt": 1688576400000,
+                        "genreIds": [
+                            "IWZ9Z08I",
+                            "IWZ97FCD"
+                        ],
+                        "PR": false,
+                        "artists": [
+                            {
+                                "id": "IW6ZU80I",
+                                "name": "Khải",
+                                "link": "/nghe-si/Khai",
+                                "spotlight": false,
+                                "alias": "Khai",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/3/f/2/13f22d575a8977a4155bcef68fbdcc5f.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/3/f/2/13f22d575a8977a4155bcef68fbdcc5f.jpg",
+                                "isOA": false,
+                                "isOABrand": false,
+                                "playlistId": "6UW9BEOB",
+                                "totalFollow": 907
+                            }
+                        ],
+                        "artistsNames": "Khải"
+                    },
+                    "distributor": "Yin Yang Media",
+                    "indicators": [],
+                    "isIndie": false,
+                    "mvlink": "/video-clip/Khong-Cho-Doi-Nua-Khai/Z676ZB0A.html",
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "ZZAZEZFB",
+                    "title": "Sau Chia Tay... Ai Cũng Khác",
+                    "alias": "Sau-Chia-Tay-Ai-Cung-Khac-T-R-I",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "T.R.I",
+                    "artists": [
+                        {
+                            "id": "IW6W88E8",
+                            "name": "T.R.I",
+                            "link": "/T-R-I",
+                            "spotlight": false,
+                            "alias": "T-R-I",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/4/5/f/c45f36d03019798fc05bad4eb412a5ff.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/4/5/f/c45f36d03019798fc05bad4eb412a5ff.jpg",
+                            "isOA": true,
+                            "isOABrand": false,
+                            "playlistId": "6UW9B8BB"
+                        }
+                    ],
+                    "isWorldWide": true,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/2/4/d/024dcbb0ea20277514f35dc87e26bb3e.jpg",
+                    "link": "/bai-hat/Sau-Chia-Tay-Ai-Cung-Khac-T-R-I/ZZAZEZFB.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/avatars/0/2/4/d/024dcbb0ea20277514f35dc87e26bb3e.jpg",
+                    "duration": 283,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 1640952000,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ97FCD"
+                    ],
+                    "distributor": "Yin Yang Media",
+                    "indicators": [],
+                    "isIndie": false,
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "ZUWEC8UZ",
+                    "title": "Vì Em Cô Đơn",
+                    "alias": "Vi-Em-Co-Don-Lemese",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "Lemese",
+                    "artists": [
+                        {
+                            "id": "IW6WCW06",
+                            "name": "Lemese",
+                            "link": "/Lemese",
+                            "spotlight": false,
+                            "alias": "Lemese",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/e/1/1/be11c8cbd5217befff64bc302cf55137.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/e/1/1/be11c8cbd5217befff64bc302cf55137.jpg",
+                            "isOA": true,
+                            "isOABrand": false,
+                            "playlistId": "6UW9BBZZ"
+                        }
+                    ],
+                    "isWorldWide": false,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/c/b/2/8cb26f914b748f0f9f61d1de48ec4764.jpg",
+                    "link": "/bai-hat/Vi-Em-Co-Don-Lemese/ZUWEC8UZ.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/8/c/b/2/8cb26f914b748f0f9f61d1de48ec4764.jpg",
+                    "duration": 202,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 1626800400,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ9Z088",
+                        "IWZ97FCD"
+                    ],
+                    "album": {
+                        "encodeId": "68C6UUB6",
+                        "title": "Vì Em Cô Đơn (Single)",
+                        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/8/c/b/2/8cb26f914b748f0f9f61d1de48ec4764.jpg",
+                        "isoffical": true,
+                        "link": "/album/Vi-Em-Co-Don-Single-Lemese/68C6UUB6.html",
+                        "isIndie": false,
+                        "releaseDate": "22/07/2021",
+                        "sortDescription": "",
+                        "releasedAt": 1626886800000,
+                        "genreIds": [
+                            "IWZ9Z08I",
+                            "IWZ9Z088",
+                            "IWZ97FCD"
+                        ],
+                        "PR": false,
+                        "artists": [
+                            {
+                                "id": "IW6WCW06",
+                                "name": "Lemese",
+                                "link": "/Lemese",
+                                "spotlight": false,
+                                "alias": "Lemese",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/e/1/1/be11c8cbd5217befff64bc302cf55137.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/e/1/1/be11c8cbd5217befff64bc302cf55137.jpg",
+                                "isOA": true,
+                                "isOABrand": false,
+                                "playlistId": "6UW9BBZZ",
+                                "totalFollow": 3254
+                            }
+                        ],
+                        "artistsNames": "Lemese"
+                    },
+                    "distributor": "Universal Music Group",
+                    "indicators": [],
+                    "radioId": 1460644432,
+                    "isIndie": false,
+                    "streamingStatus": 1,
+                    "downloadPrivileges": [
+                        3
+                    ],
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "ZW9DCFOE",
+                    "title": "Bên Ấy Bên Này",
+                    "alias": "Ben-Ay-Ben-Nay-Long-Cao",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "Long Cao",
+                    "artists": [
+                        {
+                            "id": "IW6WADD7",
+                            "name": "Long Cao",
+                            "link": "/Cao-Huynh-Long",
+                            "spotlight": false,
+                            "alias": "Cao-Huynh-Long",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/e/a/a/7eaafae94cdc1c2f05f6e0dadb40f237.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/e/a/a/7eaafae94cdc1c2f05f6e0dadb40f237.jpg",
+                            "isOA": true,
+                            "isOABrand": false,
+                            "playlistId": "6UW9BADI"
+                        }
+                    ],
+                    "isWorldWide": true,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/e/f/0/b/ef0ba88bd785b42462208f355623976e.jpg",
+                    "link": "/bai-hat/Ben-Ay-Ben-Nay-Long-Cao/ZW9DCFOE.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/e/f/0/b/ef0ba88bd785b42462208f355623976e.jpg",
+                    "duration": 190,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 0,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ9Z088",
+                        "IWZ97FCD"
+                    ],
+                    "album": {
+                        "encodeId": "ZOEA9W96",
+                        "title": "Bên Ấy Bên Này (Single)",
+                        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/e/f/0/b/ef0ba88bd785b42462208f355623976e.jpg",
+                        "isoffical": true,
+                        "link": "/album/Ben-Ay-Ben-Nay-Single-Long-Cao/ZOEA9W96.html",
+                        "isIndie": false,
+                        "releaseDate": "2018",
+                        "sortDescription": "",
+                        "releasedAt": 1546189200000,
+                        "genreIds": [
+                            "IWZ9Z08I",
+                            "IWZ9Z088"
+                        ],
+                        "PR": false,
+                        "artists": [
+                            {
+                                "id": "IW6WADD7",
+                                "name": "Long Cao",
+                                "link": "/Cao-Huynh-Long",
+                                "spotlight": false,
+                                "alias": "Cao-Huynh-Long",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/e/a/a/7eaafae94cdc1c2f05f6e0dadb40f237.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/e/a/a/7eaafae94cdc1c2f05f6e0dadb40f237.jpg",
+                                "isOA": true,
+                                "isOABrand": false,
+                                "playlistId": "6UW9BADI",
+                                "totalFollow": 10784
+                            }
+                        ],
+                        "artistsNames": "Long Cao"
+                    },
+                    "distributor": "MIXUS",
+                    "indicators": [],
+                    "radioId": 1285945244,
+                    "isIndie": false,
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "ZO89BOBW",
+                    "title": "Người Ta Đâu Thương Em",
+                    "alias": "Nguoi-Ta-Dau-Thuong-Em-LyLy",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "LyLy",
+                    "artists": [
+                        {
+                            "id": "IW6WCUO8",
+                            "name": "LyLy",
+                            "link": "/Nguyen-Hoang-Ly",
+                            "spotlight": false,
+                            "alias": "Nguyen-Hoang-Ly",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/2/b/3/02b304b99bd227ac4043de31c3b4d1c4.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/2/b/3/02b304b99bd227ac4043de31c3b4d1c4.jpg",
+                            "isOA": true,
+                            "isOABrand": false,
+                            "playlistId": "6UW9BB79"
+                        }
+                    ],
+                    "isWorldWide": true,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/d/0/7/1/d071c3e20e8cfebb84943e039c337f85.jpg",
+                    "link": "/bai-hat/Nguoi-Ta-Dau-Thuong-Em-LyLy/ZO89BOBW.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/0/7/1/d071c3e20e8cfebb84943e039c337f85.jpg",
+                    "duration": 274,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 1612357200,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ9Z088",
+                        "IWZ97FCD"
+                    ],
+                    "album": {
+                        "encodeId": "67ODAE8O",
+                        "title": "Người Ta Đâu Thương Em (Single)",
+                        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/d/0/7/1/d071c3e20e8cfebb84943e039c337f85.jpg",
+                        "isoffical": true,
+                        "link": "/album/Nguoi-Ta-Dau-Thuong-Em-Single-LyLy/67ODAE8O.html",
+                        "isIndie": false,
+                        "releaseDate": "03/02/2021",
+                        "sortDescription": "",
+                        "releasedAt": 1612285200000,
+                        "genreIds": [
+                            "IWZ9Z08I",
+                            "IWZ9Z088",
+                            "IWZ97FCD"
+                        ],
+                        "PR": false,
+                        "artists": [
+                            {
+                                "id": "IW6WCUO8",
+                                "name": "LyLy",
+                                "link": "/Nguyen-Hoang-Ly",
+                                "spotlight": false,
+                                "alias": "Nguyen-Hoang-Ly",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/2/b/3/02b304b99bd227ac4043de31c3b4d1c4.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/2/b/3/02b304b99bd227ac4043de31c3b4d1c4.jpg",
+                                "isOA": true,
+                                "isOABrand": false,
+                                "playlistId": "6UW9BB79",
+                                "totalFollow": 68953
+                            }
+                        ],
+                        "artistsNames": "LyLy"
+                    },
+                    "distributor": "MIXUS",
+                    "indicators": [],
+                    "radioId": 1424476579,
+                    "isIndie": false,
+                    "mvlink": "/video-clip/Nguoi-Ta-Dau-Thuong-Em-LyLy/ZO89BOBW.html",
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "ZZADUI60",
+                    "title": "Muốn Nói Với Em (Piano Version)",
+                    "alias": "Muon-Noi-Voi-Em-Piano-Version-T-Team",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "T Team",
+                    "artists": [
+                        {
+                            "id": "IW7798OE",
+                            "name": "T Team",
+                            "link": "/nghe-si/T-Team",
+                            "spotlight": false,
+                            "alias": "T-Team",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/6/1/4/b614c76601a76fb73ec79d9fd9daa552.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/6/1/4/b614c76601a76fb73ec79d9fd9daa552.jpg",
+                            "isOA": false,
+                            "isOABrand": false,
+                            "playlistId": "6BW077O7"
+                        }
+                    ],
+                    "isWorldWide": true,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/6/1/4/b614c76601a76fb73ec79d9fd9daa552.jpg",
+                    "link": "/bai-hat/Muon-Noi-Voi-Em-Piano-Version-T-Team/ZZADUI60.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/avatars/b/6/1/4/b614c76601a76fb73ec79d9fd9daa552.jpg",
+                    "duration": 332,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 1608829200,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ97FCD"
+                    ],
+                    "distributor": "Yin Yang Media",
+                    "indicators": [],
+                    "isIndie": false,
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "ZUUABI97",
+                    "title": "Ôm Em Lần Cuối",
+                    "alias": "Om-Em-Lan-Cuoi-NIT-Sing",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "NIT, Sing",
+                    "artists": [
+                        {
+                            "id": "IWZFEEUZ",
+                            "name": "NIT",
+                            "link": "/NIT",
+                            "spotlight": false,
+                            "alias": "NIT",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/8/68f228a937c00b644dd6a829afab98eb_1511237564.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/6/8/68f228a937c00b644dd6a829afab98eb_1511237564.jpg",
+                            "isOA": true,
+                            "isOABrand": false,
+                            "playlistId": "ZUO78ZZ9"
+                        },
+                        {
+                            "id": "IW69BE7D",
+                            "name": "Sing",
+                            "link": "/nghe-si/Nguyen-Minh-Thanh",
+                            "spotlight": false,
+                            "alias": "Nguyen-Minh-Thanh",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/7/5/3/f75389e464b05e324f2a1bbcb4c99b7d.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/7/5/3/f75389e464b05e324f2a1bbcb4c99b7d.jpg",
+                            "isOA": false,
+                            "isOABrand": false,
+                            "playlistId": "S769BF8E"
+                        }
+                    ],
+                    "isWorldWide": true,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/7/1/0/b/710b33e13a98b6943a7686243b50da33.jpg",
+                    "link": "/bai-hat/Om-Em-Lan-Cuoi-NIT-Sing/ZUUABI97.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/7/1/0/b/710b33e13a98b6943a7686243b50da33.jpg",
+                    "duration": 244,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 1628859600,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ97FCD"
+                    ],
+                    "album": {
+                        "encodeId": "68EECI08",
+                        "title": "Ôm Em Lần Cuối (Single)",
+                        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/0/5/4/4/054424596d55fca670cef8c213dc1942.jpg",
+                        "isoffical": true,
+                        "link": "/album/Om-Em-Lan-Cuoi-Single-NIT-Sing/68EECI08.html",
+                        "isIndie": false,
+                        "releaseDate": "13/08/2021",
+                        "sortDescription": "",
+                        "releasedAt": 1628787600000,
+                        "genreIds": [
+                            "IWZ9Z08I",
+                            "IWZ97FCD"
+                        ],
+                        "PR": false,
+                        "artists": [
+                            {
+                                "id": "IWZFEEUZ",
+                                "name": "NIT",
+                                "link": "/NIT",
+                                "spotlight": false,
+                                "alias": "NIT",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/8/68f228a937c00b644dd6a829afab98eb_1511237564.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/6/8/68f228a937c00b644dd6a829afab98eb_1511237564.jpg",
+                                "isOA": true,
+                                "isOABrand": false,
+                                "playlistId": "ZUO78ZZ9",
+                                "totalFollow": 101849
+                            },
+                            {
+                                "id": "IW69BE7D",
+                                "name": "Sing",
+                                "link": "/nghe-si/Nguyen-Minh-Thanh",
+                                "spotlight": false,
+                                "alias": "Nguyen-Minh-Thanh",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/7/5/3/f75389e464b05e324f2a1bbcb4c99b7d.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/7/5/3/f75389e464b05e324f2a1bbcb4c99b7d.jpg",
+                                "isOA": false,
+                                "isOABrand": false,
+                                "playlistId": "S769BF8E",
+                                "totalFollow": 7956
+                            }
+                        ],
+                        "artistsNames": "NIT, Sing"
+                    },
+                    "distributor": "MIXUS",
+                    "indicators": [],
+                    "radioId": 1461792805,
+                    "isIndie": false,
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "Z680BOWA",
+                    "title": "Hẹn Em Ở Lần Yêu Thứ 2",
+                    "alias": "Hen-Em-O-Lan-Yeu-Thu-2-Nguyenn-Dang-Tuan-Vu",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "Nguyenn, Đặng Tuấn Vũ",
+                    "artists": [
+                        {
+                            "id": "IW7886Z7",
+                            "name": "Nguyenn",
+                            "link": "/nghe-si/Nguyenn",
+                            "spotlight": false,
+                            "alias": "Nguyenn",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/b/f/c/0bfc64039a4a7505fbbf9b2bd6ad8eeb.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/b/f/c/0bfc64039a4a7505fbbf9b2bd6ad8eeb.jpg",
+                            "isOA": false,
+                            "isOABrand": false,
+                            "playlistId": "6B7WAD9Z"
+                        },
+                        {
+                            "id": "IW68BO80",
+                            "name": "Đặng Tuấn Vũ",
+                            "link": "/nghe-si/Dang-Tuan-Vu",
+                            "spotlight": false,
+                            "alias": "Dang-Tuan-Vu",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/5/9/2/e/592e97d2a659cb91786faef21b5e1f54.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/5/9/2/e/592e97d2a659cb91786faef21b5e1f54.jpg",
+                            "isOA": false,
+                            "isOABrand": false,
+                            "playlistId": "6B7WAOA0"
+                        }
+                    ],
+                    "isWorldWide": true,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/d/2/9/9/d29937cb84adb5caa92b8801a47a1d46.jpg",
+                    "link": "/bai-hat/Hen-Em-O-Lan-Yeu-Thu-2-Nguyenn-Dang-Tuan-Vu/Z680BOWA.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/2/9/9/d29937cb84adb5caa92b8801a47a1d46.jpg",
+                    "duration": 366,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 1678798800,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ97FCD"
+                    ],
+                    "album": {
+                        "encodeId": "6B96WOD0",
+                        "title": "Hẹn Em Ở Lần Yêu Thứ 2 (Single)",
+                        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/2/f/1/9/2f1961eff02eda589db7c316f3c00de5.jpg",
+                        "isoffical": true,
+                        "link": "/album/Hen-Em-O-Lan-Yeu-Thu-2-Single-Nguyenn-Dang-Tuan-Vu/6B96WOD0.html",
+                        "isIndie": false,
+                        "releaseDate": "14/03/2023",
+                        "sortDescription": "",
+                        "releasedAt": 1678798800000,
+                        "genreIds": [
+                            "IWZ9Z08I",
+                            "IWZ97FCD"
+                        ],
+                        "PR": false,
+                        "artists": [
+                            {
+                                "id": "IW7886Z7",
+                                "name": "Nguyenn",
+                                "link": "/nghe-si/Nguyenn",
+                                "spotlight": false,
+                                "alias": "Nguyenn",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/b/f/c/0bfc64039a4a7505fbbf9b2bd6ad8eeb.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/b/f/c/0bfc64039a4a7505fbbf9b2bd6ad8eeb.jpg",
+                                "isOA": false,
+                                "isOABrand": false,
+                                "playlistId": "6B7WAD9Z",
+                                "totalFollow": 1235
+                            },
+                            {
+                                "id": "IW68BO80",
+                                "name": "Đặng Tuấn Vũ",
+                                "link": "/nghe-si/Dang-Tuan-Vu",
+                                "spotlight": false,
+                                "alias": "Dang-Tuan-Vu",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/5/9/2/e/592e97d2a659cb91786faef21b5e1f54.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/5/9/2/e/592e97d2a659cb91786faef21b5e1f54.jpg",
+                                "isOA": false,
+                                "isOABrand": false,
+                                "playlistId": "6B7WAOA0",
+                                "totalFollow": 339
+                            }
+                        ],
+                        "artistsNames": "Nguyenn, Đặng Tuấn Vũ"
+                    },
+                    "distributor": "DAO Music Entertainment",
+                    "indicators": [],
+                    "isIndie": false,
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "ZZB8DBID",
+                    "title": "Chờ Ngày Anh Nhận Ra Em (Mối Tình Đầu Của Tôi OST)",
+                    "alias": "Cho-Ngay-Anh-Nhan-Ra-Em-Moi-Tinh-Dau-Cua-Toi-OST-Thuy-Chi",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "Thùy Chi",
+                    "artists": [
+                        {
+                            "id": "IWZ9Z87W",
+                            "name": "Thùy Chi",
+                            "link": "/Thuy-Chi",
+                            "spotlight": false,
+                            "alias": "Thuy-Chi",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/0/f/5/f0f595d415f4d0c13541209c2f3b1381.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/0/f/5/f0f595d415f4d0c13541209c2f3b1381.jpg",
+                            "isOA": true,
+                            "isOABrand": false,
+                            "playlistId": "ZWZBBFI8"
+                        }
+                    ],
+                    "isWorldWide": false,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/a/7/5/9a75b8e00e86277868853576a1914dee.jpg",
+                    "link": "/bai-hat/Cho-Ngay-Anh-Nhan-Ra-Em-Moi-Tinh-Dau-Cua-Toi-OST-Thuy-Chi/ZZB8DBID.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/avatars/9/a/7/5/9a75b8e00e86277868853576a1914dee.jpg",
+                    "duration": 299,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 1553533200,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ97FCD"
+                    ],
+                    "distributor": "SKY Music",
+                    "indicators": [],
+                    "isIndie": false,
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "ZZB8DBWO",
+                    "title": "Đi Qua Mùa Hạ",
+                    "alias": "Di-Qua-Mua-Ha-Thai-Dinh",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "Thái Đinh",
+                    "artists": [
+                        {
+                            "id": "IWZAEDI0",
+                            "name": "Thái Đinh",
+                            "link": "/Thai-Dinh",
+                            "spotlight": false,
+                            "alias": "Thai-Dinh",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/b/6/f/0b6f7ffd316d8d99548917f9111fbb4c.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/b/6/f/0b6f7ffd316d8d99548917f9111fbb4c.jpg",
+                            "isOA": true,
+                            "isOABrand": false,
+                            "playlistId": "ZOZA09C0"
+                        }
+                    ],
+                    "isWorldWide": false,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/f/7f2fc838a7e08a2060d0626dd759c701_1514516485.jpg",
+                    "link": "/bai-hat/Di-Qua-Mua-Ha-Thai-Dinh/ZZB8DBWO.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/avatars/7/f/7f2fc838a7e08a2060d0626dd759c701_1514516485.jpg",
+                    "duration": 283,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 1576602000,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ97FCD"
+                    ],
+                    "distributor": "SKY Music",
+                    "indicators": [],
+                    "isIndie": false,
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "ZZ9ZC7WU",
+                    "title": "Sợ Rằng Em Biết Anh Còn Yêu Em",
+                    "alias": "So-Rang-Em-Biet-Anh-Con-Yeu-Em-JUUN-D",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "JUUN D",
+                    "artists": [
+                        {
+                            "id": "IWZAZBOC",
+                            "name": "JUUN D",
+                            "link": "/JUUN-D",
+                            "spotlight": false,
+                            "alias": "JUUN-D",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/6/c/4/d6c4eb1b358a7b7a0795e26c62f7d988.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/d/6/c/4/d6c4eb1b358a7b7a0795e26c62f7d988.jpg",
+                            "isOA": true,
+                            "isOABrand": false,
+                            "playlistId": "ZOAD0FUE"
+                        }
+                    ],
+                    "isWorldWide": true,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/c/9/9/9/c999b4fbe3b31eda7e0d943c56d746e3.jpg",
+                    "link": "/bai-hat/So-Rang-Em-Biet-Anh-Con-Yeu-Em-JUUN-D/ZZ9ZC7WU.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/c/9/9/9/c999b4fbe3b31eda7e0d943c56d746e3.jpg",
+                    "duration": 323,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 1581076800,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ97FCD"
+                    ],
+                    "album": {
+                        "encodeId": "6BWICW68",
+                        "title": "Sợ Rằng Em Biết Anh Còn Yêu Em (Single)",
+                        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/c/9/9/9/c999b4fbe3b31eda7e0d943c56d746e3.jpg",
+                        "isoffical": true,
+                        "link": "/album/So-Rang-Em-Biet-Anh-Con-Yeu-Em-Single-JUUN-D/6BWICW68.html",
+                        "isIndie": false,
+                        "releaseDate": "07/02/2020",
+                        "sortDescription": "",
+                        "releasedAt": 1581008400000,
+                        "genreIds": [
+                            "IWZ9Z08I",
+                            "IWZ97FCD"
+                        ],
+                        "PR": false,
+                        "artists": [
+                            {
+                                "id": "IWZAZBOC",
+                                "name": "JUUN D",
+                                "link": "/JUUN-D",
+                                "spotlight": false,
+                                "alias": "JUUN-D",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/6/c/4/d6c4eb1b358a7b7a0795e26c62f7d988.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/d/6/c/4/d6c4eb1b358a7b7a0795e26c62f7d988.jpg",
+                                "isOA": true,
+                                "isOABrand": false,
+                                "playlistId": "ZOAD0FUE",
+                                "totalFollow": 32863
+                            }
+                        ],
+                        "artistsNames": "JUUN D"
+                    },
+                    "distributor": "Yin Yang Media",
+                    "indicators": [],
+                    "isIndie": false,
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                },
+                {
+                    "encodeId": "Z6OEBF9Z",
+                    "title": "Bầu Trời Năm Ấy",
+                    "alias": "Bau-Troi-Nam-Ay-Sean-Ed-Hast-Anfang",
+                    "isOffical": true,
+                    "username": "",
+                    "artistsNames": "Sean, Ed.Hast, Anfang",
+                    "artists": [
+                        {
+                            "id": "IW6OOU80",
+                            "name": "Sean",
+                            "link": "/Sean-Hoang-Ngoc-Son",
+                            "spotlight": false,
+                            "alias": "Sean-Hoang-Ngoc-Son",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/1/f/8/41f84a132ac48992f8c7892f48dcc7d4.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/1/f/8/41f84a132ac48992f8c7892f48dcc7d4.jpg",
+                            "isOA": true,
+                            "isOABrand": false,
+                            "playlistId": "6UW9BBE6"
+                        },
+                        {
+                            "id": "IW7DOW0B",
+                            "name": "Hast",
+                            "link": "/nghe-si/Ed-Hast",
+                            "spotlight": false,
+                            "alias": "Ed-Hast",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/3/5/c/7/35c7642bcd4649a1b1fa0ab921b23906.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/3/5/c/7/35c7642bcd4649a1b1fa0ab921b23906.jpg",
+                            "isOA": false,
+                            "isOABrand": false,
+                            "playlistId": "6BB7IZZ8"
+                        },
+                        {
+                            "id": "IW79EFBU",
+                            "name": "Anfang",
+                            "link": "/nghe-si/Anfang-VN",
+                            "spotlight": false,
+                            "alias": "Anfang-VN",
+                            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/0/c/f/70cf7809401943b0bc47bc8a4351c6f9.jpg",
+                            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/0/c/f/70cf7809401943b0bc47bc8a4351c6f9.jpg",
+                            "isOA": false,
+                            "isOABrand": false
+                        }
+                    ],
+                    "isWorldWide": true,
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/7/6/e/3/76e3a6155605af2436e37fd8eb770983.jpg",
+                    "link": "/bai-hat/Bau-Troi-Nam-Ay-Sean-Ed-Hast-Anfang/Z6OEBF9Z.html",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/7/6/e/3/76e3a6155605af2436e37fd8eb770983.jpg",
+                    "duration": 252,
+                    "zingChoice": false,
+                    "isPrivate": false,
+                    "preRelease": false,
+                    "releaseDate": 1669381200,
+                    "genreIds": [
+                        "IWZ9Z08I",
+                        "IWZ97FCD"
+                    ],
+                    "album": {
+                        "encodeId": "6B7U8WBD",
+                        "title": "Bầu Trời Năm Ấy (Single)",
+                        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/5/7/4/9/5749a1a5551e00fdc51bcddb0e36c9b4.jpg",
+                        "isoffical": true,
+                        "link": "/album/Bau-Troi-Nam-Ay-Single-Sean-Ed-Hast-Anfang/6B7U8WBD.html",
+                        "isIndie": false,
+                        "releaseDate": "25/11/2022",
+                        "sortDescription": "",
+                        "releasedAt": 1669381200000,
+                        "genreIds": [
+                            "IWZ9Z08I",
+                            "IWZ97FCD"
+                        ],
+                        "PR": false,
+                        "artists": [
+                            {
+                                "id": "IW6OOU80",
+                                "name": "Sean",
+                                "link": "/Sean-Hoang-Ngoc-Son",
+                                "spotlight": false,
+                                "alias": "Sean-Hoang-Ngoc-Son",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/1/f/8/41f84a132ac48992f8c7892f48dcc7d4.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/1/f/8/41f84a132ac48992f8c7892f48dcc7d4.jpg",
+                                "isOA": true,
+                                "isOABrand": false,
+                                "playlistId": "6UW9BBE6",
+                                "totalFollow": 4227
+                            },
+                            {
+                                "id": "IW7DOW0B",
+                                "name": "Hast",
+                                "link": "/nghe-si/Ed-Hast",
+                                "spotlight": false,
+                                "alias": "Ed-Hast",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/3/5/c/7/35c7642bcd4649a1b1fa0ab921b23906.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/3/5/c/7/35c7642bcd4649a1b1fa0ab921b23906.jpg",
+                                "isOA": false,
+                                "isOABrand": false,
+                                "playlistId": "6BB7IZZ8",
+                                "totalFollow": 129
+                            },
+                            {
+                                "id": "IW79EFBU",
+                                "name": "Anfang",
+                                "link": "/nghe-si/Anfang-VN",
+                                "spotlight": false,
+                                "alias": "Anfang-VN",
+                                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/0/c/f/70cf7809401943b0bc47bc8a4351c6f9.jpg",
+                                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/0/c/f/70cf7809401943b0bc47bc8a4351c6f9.jpg",
+                                "isOA": false,
+                                "isOABrand": false,
+                                "totalFollow": 75
+                            }
+                        ],
+                        "artistsNames": "Sean, Ed.Hast, Anfang"
+                    },
+                    "distributor": "Yin Yang Media",
+                    "indicators": [],
+                    "isIndie": false,
+                    "streamingStatus": 1,
+                    "allowAudioAds": true,
+                    "hasLyric": true
+                }
+            ],
+            "total": 33,
+            "totalDuration": 8909
+        },
+        "like": 15538,
+        "listen": 2152273,
+        "liked": false
+    },
+    "timestamp": 1694017197819
+}
