@@ -1,5 +1,5 @@
 import { Injectable } from '@nestjs/common';
-import { Playlist } from './playlist.entity';
+import { Playlist } from './entity/playlist.entity';
 import { Repository } from 'typeorm';
 import { InjectRepository } from '@nestjs/typeorm';
 

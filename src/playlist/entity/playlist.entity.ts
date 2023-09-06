@@ -1,13 +1,4 @@
-import { Artist } from 'src/artist/artist.entity';
-import {
-    Entity,
-    Column,
-    PrimaryGeneratedColumn,
-    CreateDateColumn,
-    UpdateDateColumn,
-    ManyToMany,
-    JoinTable,
-} from 'typeorm';
+import { Entity, Column, PrimaryGeneratedColumn, CreateDateColumn, UpdateDateColumn } from 'typeorm';
 
 @Entity({ name: 'playlist' })
 export class Playlist {
@@ -31,10 +22,6 @@ export class Playlist {
 
     @Column({ type: 'varchar', length: 200, nullable: false, default: 'playlist', name: 'type' })
     type: string;
-
-    @ManyToMany(() => Artist)
-    @JoinTable({ name: 'artist_of_playlist' })
-    artist: Artist[];
 
     @CreateDateColumn({ name: 'created_at' })
     createdAt: Date;
