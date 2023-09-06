@@ -22,4 +22,10 @@ export class ArtistController {
     async getAllArtist() {
         return await this.artistService.getAllArtist();
     }
+
+    @Post('artist-of-playlist')
+    async playlistOfTopic(@Req() request: Request) {
+        const req = request.body;
+        return await this.artistService.updateArtistOfPlaylist(req.idPlaylist, req.idArtist);
+    }
 }

@@ -23,4 +23,10 @@ export class PlaylistController {
     async getAllPlaylist() {
         return await this.playlistService.getAllPlaylist();
     }
+
+    @Post('playlist-of-topic')
+    async playlistOfTopic(@Req() request: Request) {
+        const req = request.body;
+        return await this.playlistService.updatePlaylistOfTopic(req.idTopic, req.idPlaylist);
+    }
 }
