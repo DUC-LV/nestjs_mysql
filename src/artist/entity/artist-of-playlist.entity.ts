@@ -1,19 +1,22 @@
 import { Playlist } from 'src/playlist/entity/playlist.entity';
-import { Entity, PrimaryGeneratedColumn, CreateDateColumn, UpdateDateColumn, ManyToOne, JoinColumn } from 'typeorm';
+import { Entity, PrimaryColumn, CreateDateColumn, UpdateDateColumn, ManyToOne, JoinColumn } from 'typeorm';
 import { Artist } from './artist.entity';
 
 @Entity({ name: 'artist_of_playlist' })
 export class ArtistOfPlaylist {
-    @PrimaryGeneratedColumn()
-    id: number;
+    @PrimaryColumn({ name: 'playlist_id' })
+    playlist_id: number;
+
+    @PrimaryColumn({ name: 'artist_id' })
+    artist_id: number;
 
     @ManyToOne(() => Playlist)
     @JoinColumn({ name: 'playlist_id' })
-    playlist_id: number;
+    playlists: Playlist[];
 
     @ManyToOne(() => Artist)
     @JoinColumn({ name: 'artist_id' })
-    artist_id: number;
+    artists: Artist[];
 
     @CreateDateColumn({ name: 'created_at' })
     createdAt: Date;
