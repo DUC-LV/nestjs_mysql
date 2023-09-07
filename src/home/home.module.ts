@@ -11,10 +11,12 @@ import { TopicPlaylist } from 'src/topic-playlist/entity/topicPlaylist.entity';
 import { TopicPlaylistService } from 'src/topic-playlist/topicPlaylist.service';
 import { PlaylistOfTopic } from 'src/playlist/entity/playlist-of-topic.entity';
 import { ArtistOfPlaylist } from 'src/artist/entity/artist-of-playlist.entity';
+import { HomeService } from './home.service';
+import { HomeController } from './home.controller';
 
 @Module({
     imports: [TypeOrmModule.forFeature([TopicPlaylist, Playlist, Artist, PlaylistOfTopic, ArtistOfPlaylist])],
-    providers: [TopicPlaylistService, PlaylistService, ArtistService],
-    controllers: [TopicPlaylistController, PlaylistController, ArtistController],
+    providers: [TopicPlaylistService, PlaylistService, ArtistService, HomeService],
+    controllers: [TopicPlaylistController, PlaylistController, ArtistController, HomeController],
 })
 export class HomeModule {}
