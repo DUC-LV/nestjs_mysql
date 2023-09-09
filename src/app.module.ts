@@ -5,6 +5,7 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 import { ConfigModule } from '@nestjs/config';
 import { UserModule } from './user/user.module';
 import { HomeModule } from './home/home.module';
+import { JwtStrategy } from './strategy';
 
 @Module({
     imports: [
@@ -25,6 +26,6 @@ import { HomeModule } from './home/home.module';
         HomeModule,
     ],
     controllers: [AppController],
-    providers: [AppService],
+    providers: [AppService, JwtStrategy],
 })
 export class AppModule {}
