@@ -28,4 +28,16 @@ export class ArtistController {
         const req = request.body;
         return await this.artistService.updateArtistOfPlaylist(req.idPlaylist, req.idArtist);
     }
+
+    @Post('update/artist-of-song')
+    async updateArtistOfSong(@Req() request: Request) {
+        const req = request.body;
+        return await this.artistService.updateArtistOfSong(req.idSong, req.idArtist);
+    }
+
+    @Post('artist-of-album')
+    async updateArtistOfAlbum(@Req() request: Request) {
+        const req = request.body;
+        return await this.artistService.updateArtistOfAlbum(req.idAlbum, req.idArtist);
+    }
 }

@@ -1,4 +1,4 @@
-import { Controller, Post, Req, Get } from '@nestjs/common';
+import { Controller, Post, Req, Get, Param } from '@nestjs/common';
 import { PlaylistService } from './playlist.service';
 import { Request } from 'express';
 
@@ -28,5 +28,10 @@ export class PlaylistController {
     async playlistOfTopic(@Req() request: Request) {
         const req = request.body;
         return await this.playlistService.updatePlaylistOfTopic(req.idTopic, req.idPlaylist);
+    }
+
+    @Get('playlist/:id')
+    async playlistDetail(@Param('id') id: number) {
+        return this.playlistService.playlistDetail(id);
     }
 }
