@@ -1,4 +1,4 @@
-import { Controller, Post, Req } from '@nestjs/common';
+import { Controller, Get, Post, Req } from '@nestjs/common';
 import { UserService } from './user.service';
 import { Request } from 'express';
 
@@ -18,8 +18,8 @@ export class UserController {
         return await this.userService.login(req.email, req.password);
     }
 
-    // @Post('refreshToken')
-    // async refreshToken(id: number, refreshToken: string) {
-    //     return await this.userService.refreshToken(id, refreshToken);
-    // }
+    @Get('user-info')
+    async getUserInfo(@Req() request: Request) {
+        return await this.userService.getUserInfo(request.body.token);
+    }
 }

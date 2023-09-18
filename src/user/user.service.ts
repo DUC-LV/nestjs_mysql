@@ -3,13 +3,6 @@ import { InjectRepository } from '@nestjs/typeorm';
 import { User } from './entity/user.entity';
 import { Repository } from 'typeorm';
 import { JwtService } from '@nestjs/jwt';
-// import * as bcrypt from 'bcrypt';
-
-// type RegisterType = {
-//     email: string;
-//     password: string;
-//     username: string;
-// };
 
 @Injectable()
 export class UserService {
@@ -62,20 +55,6 @@ export class UserService {
                 };
             }
 
-            const accessToken = await Promise.all([
-                this.jwtService.signAsync(
-                    { email: (await userWithEmail).email, id: (await userWithEmail).id },
-                    { secret: process.env.SECRET_KEY, expiresIn: '24h' }
-                ),
-            ]);
-
-            const refreshToken = await Promise.all([
-                this.jwtService.signAsync(
-                    { email: (await userWithEmail).email, id: (await userWithEmail).id },
-                    { secret: process.env.JWT_REFRESH_SECRET, expiresIn: '30d' }
-                ),
-            ]);
-
             return {
                 errorCode: 200,
                 message: 'Success',
@@ -83,8 +62,8 @@ export class UserService {
                     id: userWithEmail.id,
                     email: userWithEmail.email,
                     userName: userWithEmail.username,
-                    accessToken: accessToken[0],
-                    refreshToken: refreshToken[0],
+                    accessToken: this.generateAccessToken({ id: userWithEmail.id }),
+                    refreshToken: this.generateRefreshToken({ id: userWithEmail.id }),
                 },
             };
         } catch (error) {
@@ -92,44 +71,45 @@ export class UserService {
         }
     }
 
-    async getToken(id: number, email: string) {
+    async refreshToken(token: string) {
         try {
-            const accessToken = await Promise.all([
-                this.jwtService.signAsync(
-                    { email: email, id: id },
-                    { secret: process.env.SECRET_KEY, expiresIn: '24h' }
-                ),
-            ]);
-
-            const refreshToken = await Promise.all([
-                this.jwtService.signAsync(
-                    { email: email, id: id },
-                    { secret: process.env.JWT_REFRESH_SECRET, expiresIn: '30d' }
-                ),
-            ]);
-
+            const { id } = this.jwtService.verify(token, { secret: process.env.SECRET_KEY });
             return {
-                accessToken: accessToken[0],
-                refreshToken: refreshToken[0],
+                errorCode: 200,
+                message: 'Success',
+                data: {
+                    accessToken: this.generateAccessToken({ id: id }),
+                },
             };
         } catch (error) {
             console.log(error);
         }
     }
 
-    // async refreshToken(id: number, refreshToken: string) {
-    //     try {
-    //         const user = await this.userService.findOne({ where: { id } });
-    //         if (!user) throw new ForbiddenException('Access Denied.');
+    async getUserInfo(token: string) {
+        try {
+            const { id } = this.jwtService.verify(token, { secret: process.env.SECRET_KEY });
+            const user = await this.userService.findOne({ where: { id: id } });
+            if (user) {
+                return {
+                    errorCode: 200,
+                    message: 'Success',
+                    data: user,
+                };
+            }
+        } catch (error) {
+            console.log(error);
+        }
+    }
 
-    //         const rtMatches = await bcrypt.compare(refreshToken);
-    //         if (!rtMatches) throw new ForbiddenException('Access Denied.');
+    private generateAccessToken(payload: { id: number }): string {
+        return this.jwtService.sign(payload, { secret: process.env.SECRET_KEY });
+    }
 
-    //         const token = await this.getToken(user.id, user.email);
-
-    //         return token;
-    //     } catch (error) {
-    //         console.log(error);
-    //     }
-    // }
+    private generateRefreshToken(payload: { id: number }): string {
+        return this.jwtService.sign(payload, {
+            secret: process.env.SECRET_KEY,
+            expiresIn: '15m',
+        });
+    }
 }

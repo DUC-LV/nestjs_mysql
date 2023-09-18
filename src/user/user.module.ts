@@ -4,9 +4,14 @@ import { User } from './entity/user.entity';
 import { UserController } from './user.controller';
 import { UserService } from './user.service';
 import { JwtModule } from '@nestjs/jwt';
+import { PassportModule } from '@nestjs/passport';
 
 @Module({
-    imports: [TypeOrmModule.forFeature([User]), JwtModule.register({ secret: process.env.SECRET_KEY })],
+    imports: [
+        TypeOrmModule.forFeature([User]),
+        JwtModule.register({ secret: process.env.SECRET_KEY, signOptions: { expiresIn: '15m' } }),
+        PassportModule,
+    ],
     providers: [UserService],
     controllers: [UserController],
 })
